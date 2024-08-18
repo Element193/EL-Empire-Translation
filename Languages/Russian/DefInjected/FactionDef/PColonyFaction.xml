@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PColony.label>Подконтрольная фракция</PColony.label>
+  <PColony.description>Эта фракция под вашим контролем.</PColony.description>
+  <PColony.pawnSingular>чужеземец</PColony.pawnSingular>
+  <PColony.pawnsPlural>чужеземцы</PColony.pawnsPlural>
+  <PColony.leaderTitle>главный советник</PColony.leaderTitle>
+
+</LanguageData>

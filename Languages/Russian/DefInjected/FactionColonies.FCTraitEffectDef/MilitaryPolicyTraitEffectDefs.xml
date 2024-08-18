@@ -1,0 +1,15 @@
+﻿<LanguageData>
+
+  <heavyConscription.label>Массовая мобилизация</heavyConscription.label>
+  <heavyConscription.desc>Большое количество населения призывается в вооруженные силы поселения. Прирост счастья: -50%. Прирост волнений +50%. Боевой уровень: +2.</heavyConscription>
+
+  <volunteerService.label>Добровольная служба</volunteerService.label>
+  <volunteerService.desc>Военные силы ваших поселений состоят только из добровольцев. Прирост волнений +50%. Прирост волнений -25%. Снижение лояльности: -25%.</volunteerService.desc>
+
+  <aFactionDisarmed.label>Обезоруженная фракция</aFactionDisarmed.label>
+  <aFactionDisarmed.desc>Во фракции почти нет подготовленных вооруженных сил. Боевая эффективность: -40%. Налоги: +10%.</aFactionDisarmed.desc>
+
+  <slaveArmy.label>Армия рабов</slaveArmy.label>
+  <slaveArmy.desc>Большая часть военных сил ваших поселений состоит из рабов или людей в принудительной зависимости. Боевая эффективность: -20%. Боевой уровень: +1.</slaveArmy.desc>
+
+</LanguageData>

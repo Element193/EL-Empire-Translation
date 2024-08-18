@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <theNewPioneers.label>Пионеры</theNewPioneers.label>
+  <theNewPioneers.desc>Фракция, целью которой является постоянное расширение своих границ. Стоимость поселений: -10%.</theNewPioneers.desc>
+
+  <mercenaries.label>Наемники</mercenaries.label>
+  <mercenaries.desc>Фракция, население которой включает большое количество бывших или нынешних наемников. Боевая эффективность: +25%. Стоимость рабочих: +10.</mercenaries.desc>
+
+  <expertCraftsmen.label>Мастера</expertCraftsmen.label>
+  <expertCraftsmen.desc>Фракция с большим количеством опытных ремесленников в своих рядах. Оружие: +25%. Одежда: +25%.</expertCraftsmen.desc>
+
+  <argiculturalRoots.label>Фермеры</argiculturalRoots.label>
+  <argiculturalRoots.desc><Фракция с крепкими сельскохозяйственными корнями. Пища: +15%. Животные: +25%.></argiculturalRoots.desc>
+
+  <researchers.label>Исследователи</researchers.label>
+  <researchers.desc>Фракция, постоянно стремящаяся к разработке новых технологий. Исследования: +25%. Стоимость рабочих +5.</researchers.desc>
+
+  <miningGuild.label>Шахтеры</miningGuild.label>
+  <miningGuild.desc>Фракция с богатой историей горняков. Добыча: +20%.</miningGuild.desc>
+
+</LanguageData>

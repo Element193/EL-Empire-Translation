@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+ <LightConverter.label>Светопреобразователь</LightConverter.label>
+ <LightConverter.desc>Большая аркотехническая машина, которая способна превращать свет во что угодно, что не имеет жизни. Приманивает группы налетчиков. Пища, оружие, одежда, древесина, добыча, медицина: +75%. Боевой уровень: -3. Содержание: -4000.</LightConverter.desc>
+
+ <AnimalBeacon.label>Маяк для животных</AnimalBeacon.label>
+ <AnimalBeacon.desc>Башня архотеков, генерирующая пси-импульс, который привлекает и успокаивает животных. Животные: +100%. Содержание: -1000.</AnimalBeacon.desc>
+
+  <TrappedAI.label>Заточенный аркотек-ИИ</TrappedAI.label>
+  <TrappedAI.desc>Архотек-ИИ, заточенный в закрытой сети. Абсолютно безопасен, пока кто-то не выпустит его. Исследования: +100%. Волнения/д: +0.5. Содержание: -2000.</TrappedAI.desc>
+
+  <UnionOffices.label>Офисы профсоюза</UnionOffices.label>
+  <UnionOffices.desc>Удивительно, насколько довольнее и работоспособнее становятся жители, когда вы относитесь к ним хорошо. Волнения/д, счастье/д, лояльность/д: -0.75. Стоимость рабочих: +50. Рабочие: +10 Платные рабочие: +10. Содержание: -1000.</UnionOffices.desc>
+
+  <OrbitalSpaceLaser.label>Орбитальный выжигатель</OrbitalSpaceLaser.label>
+  <OrbitalSpaceLaser.desc>Это что-то вроде многоразовой ядерной бомбы, работает от солнечного питания. Боевой уровень +2. Содержание: -1000.</OrbitalSpaceLaser.desc>
+
+  <TransdimensionalMarket.label>Портальный рынок</TransdimensionalMarket.label>
+  <TransdimensionalMarket.desc>Одно дело - торговать со всей галактикой. Совершенно другое - построить обсидиановый монолит для торговли с адским измерением. Доля: +80, Налог: +25%.</TransdimensionalMarket.desc>
+
+</LanguageData>

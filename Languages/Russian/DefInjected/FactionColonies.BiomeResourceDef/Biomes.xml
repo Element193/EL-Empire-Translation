@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <defaultBiome.label>стандартный биом</defaultBiome.label>
+  <BorealForest.label>тайга</BorealForest.label>
+  <Tundra.label>тундра</Tundra.label>
+  <ColdBog.label>холодная топь</ColdBog.label>
+  <IceSheet.label>ледник</IceSheet.label>
+  <SeaIce.label>морские льды</SeaIce.label>
+  <TemperateSwamp.label>болото</TemperateSwamp.label>
+  <TropicalRainforest.label>тропический Леc</TropicalRainforest.label>
+  <TropicalSwamp.label>тропическое болото</TropicalSwamp.label>
+  <AridShrubland.label>кустарниковая степь</AridShrubland.label>
+  <Desert.label>полупустыня</Desert.label>
+  <ExtremeDesert.label>пустыня</ExtremeDesert.label>
+
+
+</LanguageData>

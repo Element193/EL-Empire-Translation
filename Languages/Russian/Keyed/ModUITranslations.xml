@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <TheSettlement>Поселение</TheSettlement>
+    <HasBeenFormed> было сформировано</HasBeenFormed>
+    <PlayerColony>Подконтрольная колония</PlayerColony>
+
+
+    <!-- billFC Class -->
+    <NotEnoughSilverForBill>У вас недостаточно серебра, чтобы оплатить счет от</NotEnoughSilverForBill>
+    <ConfiscatedTithes>Они конфисковали вашу долю.</ConfiscatedTithes>
+
+    <!-- billWindowFC -->
+    <OutstandingBills>Неоплачено</OutstandingBills>
+    <Name>Название</Name>
+    <!--<Source>Source</Source>-->
+    <DueDate>Даты выплат</DueDate>
+    <Amount>Сума</Amount>
+    <HasTithe>Доля</HasTithe>
+    <PayReceiveSilver>Заплатить/получить серебро</PayReceiveSilver>
+    <ResolveBill>Получить выплату</ResolveBill>
+    <NotEnoughSilverOnMapToPayBill>На текущей карте у вас недостаточно серебра, чтобы оплатить счет.</NotEnoughSilverOnMapToPayBill>
+
+    <!-- Manual defense -->
+    <DefendColony>Защита</DefendColony>
+    <DefendColonyDesc>Ручная защита</DefendColonyDesc>
+
+    <!-- createColonyWindowFC -->
+    <SettleANewColony>Основать поселение</SettleANewColony>
+    <TravelTime>Время пути</TravelTime>
+    <InitialCost>Стоимость</InitialCost>
+    <Silver>Серебра</Silver>
+    <BaseProductionStats>Ресурсы</BaseProductionStats>
+    <Base>База</Base>
+    <Modifier>Модиф.</Modifier>
+    <Final>Итог</Final>
+    <Settle>Основать</Settle>
+    <CaravanOnWay>Караван уже в пути</CaravanOnWay>
+    <CaravanSentToLocation>Караван был отправлен в указанное место! Они прибудут через</CaravanSentToLocation>
+    <NotEnoughSilverToSettle>На текущей карте у вас недостаточно серебра для основания новой колонии.</NotEnoughSilverToSettle>
+
+    <!-- descWindowFC -->
+    <!--<Description>Description</Description>-->
+
+    <!-- eventWindowFC -->
+    <CurrentOngoingEvents>Текущие события</CurrentOngoingEvents>
+    <!--<Location>Location</Location>-->
+    <TimeRemaining>Окончание</TimeRemaining>
+    <NewLand>Новая земля</NewLand>
+
+    <!--factionCustomizeWindowFC -->
+    <CustomizeFaction>Настройки фракции</CustomizeFaction>
+    <FactionName>Название</FactionName>
+    <FactionTitle>Подназвание</FactionTitle>
+    <FactionIcon>Иконка фракции</FactionIcon>
+	<InvalidFaction>Эта фракция не способна управлять империей самостоятельно!</InvalidFaction>
+    <ButtonNotAvailable>Эта кнопка пока недоступна</ButtonNotAvailable>
+    <ConfirmChanges>Подтвердить изменения</ConfirmChanges>
+
+    <!-- FactionFC -->
+    <PlayerFaction>Фракция</PlayerFaction>
+    <Bastion>Бастион</Bastion>
+    <Food>Пища</Food>
+    <Weapons>Оружие</Weapons>
+    <!--<Apparel>Apparel</Apparel>-->
+    <Animals>Животные</Animals>
+    <Logging>Древесина</Logging>
+    <Mining>Добыча</Mining>
+    <Researching>Исследования</Researching>
+    <PolicyAlreadyEnacted>Эта политика уже была принята.</PolicyAlreadyEnacted>
+    <NotEnoughMoneyToEnact>На текущей карте у вас недостаточно серебра, чтобы внедрить эту политику.</NotEnoughMoneyToEnact>
+  <AlreadyPolicyTypeBeingEnacted>Уже ведется внедрение политики этого типа</AlreadyPolicyTypeBeingEnacted>
+  <AlreadyPolicyInSlot>Уже ведется внедрение политики в этом слоте</AlreadyPolicyInSlot>
+  <SettlementTax>Налог поселения</SettlementTax>
+  <WeekOf>неделя</WeekOf>
+  <TaxesBilled>Налоги были выставлены</TaxesBilled>
+  <NoSettlementsToTax>Нет поселений для налогообложения</NoSettlementsToTax>
+  <CouldNotFindMapOfCapital>Не удалось найти карту столицы</CouldNotFindMapOfCapital>
+  <ResearchGeneratedWaste>Сгенерированные исследовательские очки вашей фракции были потрачены впустую, так как вы не выбрали исследования</ResearchGeneratedWaste>
+
+    <!-- FCevent -->
+    <TaxesFrom>Налоги от</TaxesFrom>
+    <HaveBeenDelivered>были доставлены</HaveBeenDelivered>
+    <HasBeenConstructedAt>построено в</HasBeenConstructedAt>
+    <HasBeenEnactedAt>была внедрена в</HasBeenEnactedAt>
+    <EnactedInYourFaction>была внедрена в вашей фракции</EnactedInYourFaction>
+
+    <!-- listBuildingFC -->
+    <ConstructBuilding>Строительство</ConstructBuilding>
+    <Cost>Цена</Cost>
+    <Effect>Эффект</Effect>
+    <Construct>Строить</Construct>
+    <Info>Инфо</Info>
+    <Built>Построено</Built>
+    <Destroy>Разрушить</Destroy>
+    <Build>Строить</Build>
+    <WillBeConstructedIn>Будет построено в</WillBeConstructedIn>
+
+    <!-- listFactionPolicyFC -->
+    <Enact>Принять</Enact>
+    <Enacted>Принято</Enacted>
+    <Repeal>Отмена</Repeal>
+    <WillBeEnactedIn>Будет принята в</WillBeEnactedIn>
+
+    <!-- listSettlementPolicyFC -->
+    <EnactPolicy>Принять политику</EnactPolicy>
+
+    <!-- listThingFC -->
+    <TitheList>Доля</TitheList>
+    <StackCount>Количество</StackCount>
+    <!--<MarketValue>Market Value</MarketValue>-->
+    <FCTotalValue>Итог. Значение</FCTotalValue>
+    <CashSymbol></CashSymbol>
+
+    <!-- MainTabWindow_Colony -->
+    <SettlementManager>Поселения</SettlementManager>
+    <CreateNewColony>Основать поселение</CreateNewColony>
+    <SelectTile>Выберите область для создания новой колонии</SelectTile>
+    <SetAsFactionCapital>{0} установлено в качестве столицы</SetAsFactionCapital>
+	<NoFactionForMilitary>Это недоступно без фракции!</NoFactionForMilitary>
+	<selectedInvalidTile>Вы не можете построить поселение здесь!</selectedInvalidTile>
+	
+    <!--<Faction>Faction</Faction>-->
+    <Colonies>Колонии</Colonies>
+    <Bills>Налоги</Bills>
+    <Events>События</Events>
+    <Settlement>Название</Settlement>
+    <Settlements>Поселения</Settlements>
+    <ColonyLevel>Уровень колонии</ColonyLevel>
+    <MilitaryLevel>Боевой уровень</MilitaryLevel>
+    <Unrest>Волнен</Unrest>
+    <Profit>Доход</Profit>
+    <Loyalty>Лоял.</Loyalty>
+    <TotalProduction>Итог. продукции</TotalProduction>
+    <FactionHappiness>Счастье Фракции</FactionHappiness>
+    <FactionLoyalty>Лояльность Фракции</FactionLoyalty>
+    <FactionUnrest>Волнения Фракции</FactionUnrest>
+    <FactionProsperity>Процветание Фракции</FactionProsperity>
+
+    <FactionHappinessDesc>Измерение общего счастья фракции. Высокое счастье означает, что внутренние конфликты в поселении будут склоняться в вашу пользу.</FactionHappinessDesc>
+    <FactionLoyaltyDesc>Измерение общей лояльности фракции. Лояльность поселения определяет, насколько оно готово вас слушать. Высокая лояльность уменьшает риск дезертирства.</FactionLoyaltyDesc>
+    <FactionUnrestDesc>Измерение общего волнения фракции. Чем выше волнение, тем больше шансов на возникновение опасных событий внутри вашей фракции. При слишком высоком уровне волнений может начаться массовое восстание.</FactionUnrestDesc>
+    <FactionProsperityDesc>Измерение общего процветания фракции. Процветание напрямую связано с производством ресурсов. 50% процветания = 50% производства. Если процветание ухудшается, оно медленно восстанавливается со временем.</FactionProsperityDesc>
+    <Policies-Traits>Политики/Модели</Policies-Traits>
+    <TaxReports>Налоговые Отчеты</TaxReports>
+    <TotalFactionProduction>Общее производство ресурса для всей фракции</TotalFactionProduction>
+    <EstimatedProfit>Доход</EstimatedProfit>
+    <TimeTillTax>Выплата через</TimeTillTax>
+
+    <Hamlet>Поселение</Hamlet>
+    <BuildingAlreadyType>Здесь уже есть здание такого типа</BuildingAlreadyType>
+    <NotEnoughSilverConstructBuilding>У вас недостаточно серебра на текущей карте, чтобы построить это здание</NotEnoughSilverConstructBuilding>
+    <BuildingBeingBuiltAlreadyType>Уже идет строительство здания такого типа</BuildingBeingBuiltAlreadyType>
+    <BuildingAlreadyConstructed>Уже идет строительство здания здесь</BuildingAlreadyConstructed>
+	
+    <!-- WorldSettlementFC -->
+    <SettlementUnderAttack>Это поселение под атакой</SettlementUnderAttack>
+    <EndingAttack>Завершение атаки...</EndingAttack>
+    <ErrorEndingAttack>Ошибка завершения атаки</ErrorEndingAttack>
+    <ErrorEndingAttackDescription>Произошла ошибка при завершении атаки. Скорее всего, карта не была удалена правильно.
+        Пожалуйста, сообщите об этом, если ваши поселенцы не вернутся после обороны, или ваше военное подразделение не выйдет из перерыва.
+    </ErrorEndingAttackDescription>
+
+    <!-- SettlementUpgradeWindowFC -->
+    <UpgradeSettlement>Улучшить поселение</UpgradeSettlement>
+    <CanBeUpgraded>может быть улучшено за</CanBeUpgraded>
+    <UpgradeColonyDesc>Улучшение этого поселения увеличит максимальное количество рабочих на 3. Боевой уровень этого поселения также увеличится на 1.
+    </UpgradeColonyDesc>
+    <HasBeenUpgraded>было улучшено до уровня</HasBeenUpgraded>
+    <AlreadyMaxLevel>уже максимального уровня</AlreadyMaxLevel>
+    <NotEnoughSilverUpgrade>На текущей карте недостаточно серебра для оплаты улучшения поселения.
+    </NotEnoughSilverUpgrade>
+    <CannotBeUpgradedPastMax>Это поселение не может быть улучшено за пределы максимального уровня</CannotBeUpgradedPastMax>
+
+
+      <!-- SettlementWindowFC -->
+    <TownLog>Журнал Поселения</TownLog>
+    <UpgradeTown>Улучшить поселение</UpgradeTown>
+    <GoToLocation>Перейти к карте</GoToLocation>
+    <AssignedWorkers>Рабочие</AssignedWorkers>
+    <IsTithe>Доля</IsTithe>
+    <ProductionEfficiency>Эффективность</ProductionEfficiency>
+    <SettlementProductionOf>Общее производство ресурса поселением</SettlementProductionOf>
+    <Workers>Рабочие</Workers>
+    <Located>Ландшафт:</Located>
+    <LandOf>Биом:</LandOf>
+
+    <SettlementMilitaryLevel>Боевой уровень</SettlementMilitaryLevel>
+    <SettlementHappiness>Счастье</SettlementHappiness>
+    <SettlementLoyalty>Лояльность</SettlementLoyalty>
+    <SettlementUnrest>Волнения</SettlementUnrest>
+    <SettlementProsperity>Процветание</SettlementProsperity>
+
+    <SettlementMilitaryLevelDesc>Мера боевого уровня поселения. Боевой уровень поселения влияет на количество очков отряда, чем их больше, тем более укомплектованых пехотинцев можно создать. Также боевой уровень влияет на исход обороны или нападения при использовании отряда этого поселения, даже если отряд не создан в меню отрядов.</SettlementMilitaryLevelDesc>
+    <SettlementHappinessDesc>Мера общего счастья поселения. Высокий уровень счастья имеет значения при случайных событиях, высокое значение счастья склоняет события в вашу пользу.</SettlementHappinessDesc>
+    <SettlementLoyaltyDesc>Мера общей лояльности поселения. При низкой лояльности возможно появление соответствующих негативных событий и дезертирства.</SettlementLoyaltyDesc>
+    <SettlementUnrestDesc>Мера общего волнения в поселении. Чем выше волнения, тем больше вероятность появления негативных событий внутри поселения. Если волнение станет слишком высоким, может начаться бунт.</SettlementUnrestDesc>
+    <SettlementProsperityDesc>Мера общего процветания поселения. Процветание напрямую связано с производством ресурсов. 50% процветания = 50% производства. Если процветание повреждено, оно будет медленно восстанавливаться со временем.</SettlementProsperityDesc>
+    <BuildingUpgrades>Сооружения</BuildingUpgrades>
+    <AddedInFuture>Это будет дополнено в будущем</AddedInFuture>
+    <Production>Производство</Production>
+    <TaxBase>Модиф. Налога</TaxBase>
+    <Total>Общ.</Total>
+    <Income>Доход</Income>
+    <Upkeep>Содержание</Upkeep>
+    <CostPerWorker>Стоимость рабочего</CostPerWorker>
+
+    <!--MilitaryCustomizationWindowFC Customize Unit-->
+    <ExportedUnit>Экспорт</ExportedUnit>
+    <ExportedSquad>Экспорт</ExportedSquad>
+	<CantBeModified>{0} можеть быть модернизирован: {1}</CantBeModified>
+	<ReasonDeployed>Отряд, содержащий это, развернут</ReasonDeployed>
+	<ReasonDefending>Отряд, содержащий это, защищает поселение</ReasonDefending>
+	<importUnit>Импорт</importUnit>
+	
+	<!-- Outfit Slots-->
+	<fcLabelHead>Голова</fcLabelHead>
+	<fcLabelShirt>Торс</fcLabelShirt>
+	<fcLabelChest>Грудь</fcLabelChest>
+	<fcLabelOver>Верх</fcLabelOver>
+	<fcLabelBelt>Доп</fcLabelBelt>
+	<fcLabelPants>Ноги</fcLabelPants>
+	<fcLabelWeapon>Оружие</fcLabelWeapon>
+	<fcLabelAnimal>Питомец</fcLabelAnimal>
+
+	<!-- Function Buttons -->
+	<resetUnitToDefaultButton>Сбросить</resetUnitToDefaultButton>
+	<deleteUnitButton>Удалить</deleteUnitButton>
+	<selectAUnitButton>Выбрать</selectAUnitButton>
+	<rollANewUnitButton>Сгенерировать</rollANewUnitButton>
+	<changeUnitRaceButton>Раса</changeUnitRaceButton>
+	<changeUnitXenoButton>Ксенотип</changeUnitXenoButton>
+	<exportUnitButton>Экспорт</exportUnitButton>
+	
+	<!-- Checkbox labels -->
+	<unitIsCivilianLabel>is Civilian</unitIsCivilianLabel>
+	<unitIsTraderLabel>is Trader</unitIsTraderLabel>
+	
+	<!-- Generic labels -->
+	<totalEquipmentCostLabel>Стоимость экипировки: </totalEquipmentCostLabel>
+	
+	<!-- FloatMenuOptions -->
+	<unitActionUnequipThing>Ничего</unitActionUnequipThing>
+	
+	<!-- Errors -->
+	<changeUnitRaceNoRaces>Нету доступных рас</changeUnitRaceNoRaces>
+	<changeUnitXenoNoXenos>Нету доступных ксенотипов</changeUnitXenoNoXenos>
+	
+    <!-- taxReportFactionWindowFC -->
+    <FactionTaxReports>Налоговая статистика</FactionTaxReports>
+    <Date>Дата</Date>
+    <Tithe>Доля</Tithe>
+	
+    <!--<Value>Value</Value>-->
+    <View>Обзор</View>
+
+    <!-- taxWindowFC -->
+    <SettlementTaxCollection>Сбор Налогов Поселений</SettlementTaxCollection>
+    <Report>Статистика</Report>
+    <Reports>Статистики</Reports>
+    <GoTo>Перейти к</GoTo>
+    <EstimatedValue>Оценка дохода</EstimatedValue>
+
+    <!-- settlementWindowFC -->
+    <DeleteSettlement>Забросить поселение</DeleteSettlement>
+    <AreYouSureRemove>Уверены?</AreYouSureRemove>
+    <SettlementRemoved>Поселение {0} было заброшено.</SettlementRemoved>
+
+
+    <!-- traitWindowFC -->
+    <FactionPoliciesAndTraits>Политики и модели</FactionPoliciesAndTraits>
+    <TaxLaw>Налоговая политика</TaxLaw>
+    <SocialPolicy>Социальная политика</SocialPolicy>
+    <MilitaryPolicy>Военная политика</MilitaryPolicy>
+    <FactionTraits>Общ. модели</FactionTraits>
+    <AddTrait>Добавить модель</AddTrait>
+
+    <!-- overview -->
+    <FCBuildRoads>Строить дороги</FCBuildRoads>
+
+	<!-- ManageExports -->
+	<FCImport>Импорт</FCImport>
+	<FCImported>Импорт {0}</FCImported>
+	<FCDeleted>Удалено {0}</FCDeleted>
+
+	<FloatMenuSearchable>Тип для поиска:</FloatMenuSearchable>
+	
+	<!--EmpireUI.cs-->
+	<selectDeployedSquad>Выберите развернутый отряд</selectDeployedSquad>
+	<selectedDeployedSquad>{0} {1}</selectedDeployedSquad> <!--{0} is a settlement name. {1} is a squad name. -->
+	<noSquadsAvailable>Нету доступных отрядов</noSquadsAvailable>
+	
+	<commandAttack>Атаковать</commandAttack>
+	<attackSuccess>{0} теперь атакуют врага.</attackSuccess>
+	
+	<commandMove>Перейти</commandMove>
+	<moveSuccess>{0} движутся к позиции и ожидают.</moveSuccess>
+	
+	<commandLeave>Вернуться</commandLeave>
+	<leaveSuccess>{0} покидают область. {1} погиб.</leaveSuccess>
+	
+  <!-- Отправить заключенного в поселение -->
+  <cantSendWithDangerLevel>Вы не можете отправить заключенного в ваши поселения, когда уровень опасности карты составляет {0}!</cantSendWithDangerLevel>
+
+   <!-- ShuttleTransportEvent -->
+  <transportingInjuredShuttle>Шаттл транспортирует раненых колонистов к вам после успешной защиты поселения</transportingInjuredShuttle>
+  <transportingInjuredDropPod>Капсулы транспортируют раненых колонистов к вам после успешной защиты поселения</transportingInjuredDropPod>
+  <transportingInjuredCaravan>Караван доставляет раненых колонистов к вам после успешной защиты поселения</transportingInjuredCaravan>
+  <shuttleLandingBlockedWithItems>Шаттл не смог найти свободное место для посадки и ожидает, чтобы его освободили. Внутри находится: {0}.</shuttleLandingBlockedWithItems>
+  <shuttleLandingBlocked>Шаттл не смог найти свободное место для посадки и ожидает, чтобы его освободили.</shuttleLandingBlocked>
+  <caravanDangerTooHigh>Караван ожидает, пока уровень опасности в области не уменьшится.</caravanDangerTooHigh>
+  <caravanDangerTooHighWithItems>Караван ожидает, пока уровень опасности в области не уменьшится. Они перевозят: {0}.</caravanDangerTooHighWithItems>
+
+	
+  <!-- Доставка -->
+  <selectTaxDeliveryModeButton>Режим доставки налогов: </selectTaxDeliveryModeButton>
+  <taxDeliveryModeDefaultDesc>Нет. Доставка зависит от технологий и зданий поселения</taxDeliveryModeDefaultDesc>
+  <taxDeliveryModeTaxSpotDesc>TaxSpot. Доставка появляется на месте сбора налогов</taxDeliveryModeTaxSpotDesc>
+  <taxDeliveryModeCaravanDesc>Caravan. Доставка всегда приносится караваном</taxDeliveryModeCaravanDesc>
+  <taxDeliveryModeDropPodDesc>DropPod. Доставка всегда прибывает в падающих капсулах</taxDeliveryModeDropPodDesc>
+  <taxDeliveryModeShuttleDesc>Shuttle. Доставка всегда прибывает на шаттле</taxDeliveryModeShuttleDesc>
+  <taxDeliveryModeShuttleUnavailableDesc>Shuttle. Недоступно из-за отсутствия милости</taxDeliveryModeShuttleUnavailableDesc>
+
+	
+  <deliveryPawnsHiding>Поставляющие пешки сбрасывают свои предметы и прячутся на вашем месте для сбора налогов! Они будут вступать в бой только если враг близко!</deliveryPawnsHiding>
+  <deliveryPawnsLeavingMap>Поставляющие пешки покидают карту.</deliveryPawnsLeavingMap>
+  <deliveryPawnsLeavingMapNoPath>Поставляющие пешки покидают карту, потому что они не могли добраться до места для сбора налогов.</deliveryPawnsLeavingMapNoPath>
+  <deliveryPawnsLeavingMapWithDowned>Поставляющие пешки собирают своих поверженных товарищей и покидают карту.</deliveryPawnsLeavingMapWithDowned>
+  <settlementDeliveringLoot>Ваше поселение доставляет вам следующие добычи: </settlementDeliveringLoot>
+  <deliveryHeldUpArriving>Доставка, которая была вынуждена ждать, прибыла!</deliveryHeldUpArriving>
+  <aSettlement> поселение </aSettlement>
+
+
+	<aPrisonerIsBeingDeliveredToYou>Пленник доставлен</aPrisonerIsBeingDeliveredToYou>
+	
+	<!-- Shuttle Port -->
+	<shuttlePortCallShuttleLabel>Запросить челнок</shuttlePortCallShuttleLabel>
+	<shuttlePortCallShuttleDesc>Попросите свое поселение отправить вам челнок: \nОсталось использований: {0} (Стоимость: {1})</shuttlePortCallShuttleDesc>
+  <targetAnythingWithColonists>Выберите место с колонистами, чтобы отправить шаттл</targetAnythingWithColonists>
+  <requestShuttleToCaravan>Запросить шаттл для этого каравана</requestShuttleToCaravan>
+  <requestShuttleToColony>Запросить шаттл для этой колонии</requestShuttleToColony>
+  <requestShuttleToMap>Запросить шаттл для этой карты</requestShuttleToMap>
+
+  <shuttlePortCallShuttleForCaravanLabel>Запросить шаттл для каравана</shuttlePortCallShuttleForCaravanLabel>
+  <targetAnyWorldObject>Выберите объект, к которому вы хотите отправить шаттл:\n Осталось использований: {0} (Стоимость: {1})</targetAnyWorldObject>
+  <sendCaravanHere>Отправить караван сюда</sendCaravanHere>
+
+  <noCaravansToSendShuttleTo>Нет поселенцев, к которым можно отправить челнок!</noCaravansToSendShuttleTo>
+  <noShuttleUsesRemaining>В этом налоговом периоде больше нет возможности вызывать челнок!</noShuttleUsesRemaining>
+  <notEnoughShuttleUsesRemaining>В этом налоговом периоде не осталось доступных челноков!</notEnoughShuttleUsesRemaining>
+
+  <!-- Действие "Открыть окно колонии" -->
+  <openSettlementWindowDefaultLabel>Управление поселением</openSettlementWindowDefaultLabel>
+  <openSettlementWindowDefaultDesc>Открыть окно управления поселением</openSettlementWindowDefaultDesc>
+  
+  <!-- Предупреждение об автоматической защите -->
+  <autoDefendWarning>Имейте в виду, что эта настройка не связана с настройкой автоматического решения битв в меню настроек!</autoDefendWarning>
+  <autoBattleEnabledNoManualFight>В данный момент ручное участие в битвах отключено из-за серьезных ошибок в игре.</autoBattleEnabledNoManualFight>
+  
+  <!-- Меню создания отряда -->
+  <clearUnitSlot>Очистить слот отряда</clearUnitSlot>
+  
+  <!-- RaceThingFilter -->
+  <noPawnKindDefOfTypeOfRaceWarning>Не удалось найти ни одного {0} PawnKindDef для уровней технологий: {1} с расой {2}. Империя будет генерировать {2}{3} используя уровень технологии: {4}.</noPawnKindDefOfTypeOfRaceWarning>
+  <noPawnKindDefOfTypeOfRaceError>Не удалось найти ни одного {0} PawnKindDef для любого уровня технологий с расой {1}. Они не смогут быть сгенерированы!</noPawnKindDefOfTypeOfRaceError>
+
+  <missingPawnKindDefsCriticalError>Выбранные вами расы отсутствуют важные PawnKindDefs! Ваша фракция может генерировать людей, чтобы заполнить этот пробел.</missingPawnKindDefsCriticalError>
+  
+  <FCPawns>Пешки</FCPawns>
+  <FCTrader>Торговец</FCTrader>
+  <FCFighter>Боец</FCFighter>
+  <FCNonMercenary>Наемник</FCNonMercenary>
+  
+  <!-- Варианты развертывания отряда -->
+  <dropPodDeploymentOption>Десантные капсулы</dropPodDeploymentOption>
+  <walkIntoMapDeploymentOption>Перемещение на карту</walkIntoMapDeploymentOption>
+  <dropPodDeploymentOptionUnavailableReasonMedieval> недоступно из-за активированной настройки "Только средневековая технология"</dropPodDeploymentOptionUnavailableReasonMedieval>
+  <dropPodDeploymentOptionUnavailableReasonTech> недоступно без исследования {0}</dropPodDeploymentOptionUnavailableReasonTech>
+  <errorDropPodResearchCouldNotBeFound>Исследование капсул не может быть найдено! Возможно, у вас установлены моды, удаляющие его?</errorDropPodResearchCouldNotBeFound>
+    
+  <!-- Развертывание военных сил -->
+  <FCMilitaryTriedDeployingToSettlementFC>Вы не можете развернуть свою армию в другом поселении!</FCMilitaryTriedDeployingToSettlementFC>
+  <FCMilitaryAction>Военное действие</FCMilitaryAction>
+  <selectMilitaryMovePosition>Выберите позицию для перемещения</selectMilitaryMovePosition>
+  <debugRemoveAllCommand>[Отладка] Удалить все</debugRemoveAllCommand>
+  <militaryPawnsLeavingTimeOut>Отряд уходит.</militaryPawnsLeavingTimeOut>
+
+  <!-- Вызов союзных сил -->
+  <selectDeploymentPosition>Выберите место</selectDeploymentPosition>
+  <selectedPosOutOfBounds>Это место находится за границей поселения!</selectedPosOutOfBounds>
+  <selectedPosTooCloseToEdge>Это место находится слишком близко к границе поселения!</selectedPosTooCloseToEdge>
+
+  <deploymentSuccessLabel>Отряд прибыл!</deploymentSuccessLabel>
+  <deploymentSuccessDesc>Отряд поселения {0} прибыл в {1}</deploymentSuccessDesc>
+
+  <!-- Кнопка отправки заключенного в поселение -->
+  <floatMenuOptionSendPrisonerToSettlement>{0} - Уровень поселения: {1}, Заключенные: {2}</floatMenuOptionSendPrisonerToSettlement> <!-- 0 - название поселения. 1 - уровень поселения. 2 - количество заключенных -->
+  
+  <!-- Дополнительные кнопки действий на карте мира -->
+  <FCCaptureFloatMenuOption>Попробовать захватить с использованием отряда {0} (Уровень {1}).</FCCaptureFloatMenuOption> <!-- 0 - название поселения -->
+  <FCRaidFloatMenuOption>Попробовать совершить набег с использованием отряда {0} (Уровень {1}).</FCRaidFloatMenuOption>
+  <FCEnslaveFloatMenuOption>Попробовать поработить с использованием отряда {0} (Уровень {1}).</FCEnslaveFloatMenuOption>
+
+	<!-- SettlementWindowFC -->
+	<FCMilitaryLevel>militaryLevel</FCMilitaryLevel>
+	<FCHappiness>happiness</FCHappiness>
+	<FCLoyality>loyalty</FCLoyality>
+	<FCUnrest>unrest</FCUnrest>
+	<FCProsperity>prosperity</FCProsperity>
+
+	<FCUpkeep>Содержание</FCUpkeep>
+	
+	<!-- Tithe Customization -->
+	<FCTitheEnableAll>Включить все</FCTitheEnableAll>
+	<FCTitheDisableAll>Отключить все</FCTitheDisableAll>
+	
+	<FCTitheSingleOption>{0} - Цена - {1} | Доступно: {2}</FCTitheSingleOption> <!-- Example: "Steel - Cost - 10 | Allowed: true" -->
+	<FCIsAllowed>Да</FCIsAllowed>
+	<FCIsNotAllowed>Нет</FCIsNotAllowed>
+
+	<!-- Settlement Customization -->
+	<FCCustomizeSettlement>Настройки поселения</FCCustomizeSettlement>
+	<FCSettlementFullName>Название:</FCSettlementFullName>
+	<FCSettlementShortName>Сокращенное:</FCSettlementShortName>
+	
+	<!-- Errors -->
+  <FCGenericError>Если вы видите это сообщение, что-то пошло не так.</FCGenericError>
+  <FCUnsupportedMilJobError>Для выбранной этой FloatMenuOption работы не зарегистрированы ключи перевода в AddButtonsToNonEmpireObjects.MilJobOptionStringsDic.</FCUnsupportedMilJobError>
+  <FCUnsupportedSettlementFaction>Фракция этого поселения не имеет имени, или что-то пошло ужасно не так.</FCUnsupportedSettlementFaction>
+	
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<LanguageData>
+
+  <onePeopleUnited.label>Единый Народ</onePeopleUnited.label>
+  <onePeopleUnited.desc>Объединенное общими целями общество обладает наиболее крепкой волей. Прирост счастья: +50%. Боевой уровень: +1. Налог: -10%.</onePeopleUnited.desc>
+
+  <diversityWeEmbrace.label>Разнообразие общества</diversityWeEmbrace.label>
+  <diversityWeEmbrace.desc>Многообразное общество не имеет не заполненных щелей, которые могли бы разрушить его. Налог: +15%. Прирост волнений: +50%. Процвитание: +0.5.</diversityWeEmbrace.desc>
+
+  <royalHeritage.label>Королевское Наследие</royalHeritage.label>
+  <royalHeritage.desc>Общество под командованием королевской семьи объединено своими традициями. Доля: +25. Стоимость поселения: -10%. Стоимость поселения: -500.</royalHeritage.desc>
+
+  <companyUnion.label>Корпоративный союз</companyUnion.label>
+  <companyUnion.desc>Корпорация, которая выбила свой путь, чтобы создать свою собственную торговую империю. Стоимость рабочих: -10. Рабочие: +1. Платные рабочие: +2.</companyUnion.desc>
+
+  <tradersFederation.label>Торговая Федерация</tradersFederation.label>
+  <tradersFederation.desc>Общество, в котором власть принадлежит тем, у кого есть богатство для траты. Налога: +10%. Доля: -25. Стоимость рабочих: +15.</tradersFederation.desc>
+
+  <scienceFoundation.label>Научный путь</scienceFoundation.label>
+  <scienceFoundation.desc>Общество, ценящее знания и исследование неизведанного. Исследования +25%. Налог: -5%.</scienceFoundation.desc>
+
+</LanguageData>

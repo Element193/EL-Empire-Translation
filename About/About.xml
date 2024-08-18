@@ -1,0 +1,22 @@
+﻿<ModMetaData>
+
+  <name>Empire RU</name>
+  <author>Element193</author>
+  <packageId>El.Empire.RU</packageId>
+
+
+  <supportedVersions>
+    <li>1.3</li>
+    <li>1.4</li>
+    <li>1.5</li>
+  </supportedVersions>
+
+  <description>
+    Перевод мода Empire. Не весь текст можно перевести.
+
+    Дополнение: ванильные иконки фракции (домик).
+
+    Спасибо: TheSeaMoon - разработчик мода; Saakra - создатель мода.
+  </description>
+  
+</ModMetaData>

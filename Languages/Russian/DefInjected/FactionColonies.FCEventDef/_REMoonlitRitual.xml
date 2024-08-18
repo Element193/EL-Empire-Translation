@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<moonlitRitual_0.label>Лунный ритуал</moonlitRitual_0.label>
+	<moonlitRitual_0.desc>В одном из ваших поселений сообщили, что ночью были замечены странные фигуры, медленно двигающиеся в лесу. Их описывают в странных накидках.</moonlitRitual_0.desc>
+
+	<moonlitRitual_1-1.label>Лунный ритуал</moonlitRitual_1-1.label>
+	<moonlitRitual_1-1.desc>Кто-то был направлен на расследование...</moonlitRitual_1-1.desc>
+	<moonlitRitual_1-1.optionDescription>Поступила информация о том, что следователь отправился в лес. По его докладу, он наблюдал, как группа проводила ряд почти плотских актов. Не желая оставаться на месте, он вернулся обратно</moonlitRitual_1-1.optionDescription>
+
+	<moonlitRitual_2-1.label>Лунный ритуал</moonlitRitual_2-1.label>
+	<moonlitRitual_2-1.desc>Идет расследование...</moonlitRitual_2-1.desc>
+	<moonlitRitual_2-1.optionDescription>Следователь доложил, что группа вернулась. Они продолжили те же действия, что и вечером ранее. Однако на этот раз, он заметил, как группа вынесла сундук с ценными религиозными символами. Подойдя ближе, чтобы разглядеть его, следователь наступил на сухой лист, группа услышала шум. Он успел убежать, прежде чем его обнаружили</moonlitRitual_2-1.optionDescription>
+
+	<moonlitRitual_2-2.label>Лунный ритуал</moonlitRitual_2-2.label>
+	<moonlitRitual_2-2.desc>Вы решили оставить их в покое</moonlitRitual_2-2.desc>
+
+	<moonlitRitual_3-1.label>Лунный ритуал</moonlitRitual_3-1.label>
+	<moonlitRitual_3-1.desc>Вы приказали продолжить расследование...</moonlitRitual_3-1.desc>
+
+	<moonlitRitual_4-1.label>Лунный ритуал</moonlitRitual_4-1.label>
+	<moonlitRitual_4-1.desc>После того как не поступило никаких сообщений, был организован поиск следователя. Его мертвое тело было найдено. Тело было лишено кожи, грудная клетка была разрезана, на коже были вырезаны рунные символы. Группу, кто бы они ни были, больше не видели. Страх охватывает нас всех. Как странно, что в этой неделе урожаи, кажется, испортились... Счастье/д: -2. Пища: -1</moonlitRitual_4-1.desc>
+
+	<moonlitRitual_3-2.label>Лунный ритуал</moonlitRitual_3-2.label>
+	<moonlitRitual_3-2.desc>Вы приказали продолжить расследование...</moonlitRitual_3-2.desc>
+
+	<moonlitRitual_4-2.label>Лунный ритуал</moonlitRitual_4-2.label>
+	<moonlitRitual_4-2.desc>Рано утром следователь доложил о произошедшем, выглядя весьма потрясенным. Однако его рассказ гласит об обратном. На этот раз его уже ждали, и он был приглашен присоединиться. По его словам, они проводили ритуал плодородия перед своей богиней в надежде на урожай. Несмотря на это, кажется, он оценил этот опыт! Пища: +1</moonlitRitual_4-2.desc>
+
+	<moonlitRitual_3-3.label>Лунный ритуал</moonlitRitual_3-3.label>
+	<moonlitRitual_3-3.desc>Урожай на этой неделе больше, чем обычно...\n Пища: +0.5</moonlitRitual_3-3.desc>
+
+
+	<moonlitRitual_3-4.label>Лунный ритуал</moonlitRitual_3-4.label>
+	<moonlitRitual_3-4.desc>Урожаи на этой неделе меньше, чем обычно... Пища: -0.5</moonlitRitual_3-4.desc>
+
+</LanguageData>

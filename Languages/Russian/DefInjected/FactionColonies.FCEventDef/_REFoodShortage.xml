@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Negative Food -->
+
+  <foodShortage.label>Нехватка продовольствия</foodShortage.label>
+  <foodShortage.desc>В пострадавших поселениях уровень урожая оставляет желать лучшего.\n Пища: -1</foodShortage.desc>
+
+</LanguageData>

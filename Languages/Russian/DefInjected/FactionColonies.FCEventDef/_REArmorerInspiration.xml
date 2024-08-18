@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <armorerInspiration_0.label>Талантливый ремесленник</armorerInspiration_0.label>
+  <armorerInspiration_0.desc>С вами связывается ремесленник из одного поселения. Он объясняет, что его охватило вдохновение, и просит серебро для изготовления доспеха достойного империи. Он планирует подарить его в знак своей преданности</armorerInspiration_0.desc>
+  
+  <armorerInspiration_1-1.label>Вдохновение ремесленника</armorerInspiration_1-1.label>
+	<armorerInspiration_1-1.desc>Ремесленник начал изготовление доспеха...</armorerInspiration_1-1.desc>
+
+  <armorerInspiration_1-2.label>Вдохновение ремесленника</armorerInspiration_1-2.label>
+  <armorerInspiration_1-2.desc>Ремесленник работает над вашим подарком...</armorerInspiration_1-2.desc>
+
+  <armorerInspiration_1-3.label>Вдохновение ремесленника</armorerInspiration_1-3.label>
+	<armorerInspiration_1-3.desc>Ремесленник почти закончил работу над доспехом...</armorerInspiration_1-3.desc>
+  
+</LanguageData>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <militaristic.label>Милитаризм</militaristic.label>
+  <militaristic.desc>Воинственное общество, стремящееся к славе через кровь и смерть во имя своей цели.</militaristic.desc>
+  <militaristic.positiveEffects.0>Боевая эффективность отрядов: +20%\n</militaristic.positiveEffects.0>
+  <militaristic.positiveEffects.1>Раз в пять дней вы можете отправить второй отряд из одного поселения, заплатив 20% стоимости отряда в серебре\n</militaristic.positiveEffects.1>
+  <militaristic.positiveEffects.2>После создания нового поселения, в нем будут бараки\n</militaristic.positiveEffects.2>
+  <militaristic.positiveEffects.3>Стоимость содержания всех военных зданий уменьшена на 100\n</militaristic.positiveEffects.3>
+
+  <pacifist.label>Пацифизм</pacifist.label>
+  <pacifist.desc>Общество, стремящееся избегать конфликтов, если это возможно.</pacifist.desc>
+  <pacifist.negativeEffects.0>\nИспользование отрядов для набегов или захвата поселений других фракций запрещено</pacifist.negativeEffects.0>
+  <pacifist.positiveEffects.0>Раз в пять дней у вас есть возможность отправить дипломатов к другой фракции с целью улучшения отношений\n</pacifist.positiveEffects.0>
+  <pacifist.positiveEffects.1>Смерть членов вашей фракции не вызовет волнений и не уменьшит уровень счастья\n</pacifist.positiveEffects.1>
+
+  <authoritarian.label>Авторитаризм</authoritarian.label>
+  <authoritarian.desc>Авторитарное общество, стремящееся поддерживать контроль над населением, используя любые доступные средства.</authoritarian.desc>
+  <authoritarian.negativeEffects.0>\nУровень лояльности начинается с 70%</authoritarian.negativeEffects.0>
+  <authoritarian.positiveEffects.0>Вы можете отправить отряд к поселению с целью захвата его жителей в рабство вместо обычного набега\n</authoritarian.positiveEffects.0>
+  <authoritarian.positiveEffects.1>Вы можете тратить серебро, чтобы увеличивать лояльность поселений\n</authoritarian.positiveEffects.1>
+
+  <egalitarian.label>Эгалитаризм</egalitarian.label>
+  <egalitarian.desc>Эгалитарное общество стремится к равенству среди всех.</egalitarian.desc>
+  <egalitarian.negativeEffects.0>\nУровень счастья начинается с 60%</egalitarian.negativeEffects.0>
+  <egalitarian.positiveEffects.0>Вы можете снизить базовый налог на 20% на два налоговых периода, чтобы значительно повысить уровень счастья и процветания\n</egalitarian.positiveEffects.0>
+  <egalitarian.positiveEffects.1>Бонус к налогу (1% за каждые 10% счастья).\n</egalitarian.positiveEffects.1>
+
+  <isolationist.label>Изоляционизм</isolationist.label>
+  <isolationist.desc>Изоляционное общество стремится оставаться уединенным в отношениях и взаимодействиях с мировой политикой.</isolationist.desc>
+  <isolationist.negativeEffects.0>\nСтоимость создания новых поселений увеличивается на 100%.\n</isolationist.negativeEffects.0>
+  <isolationist.negativeEffects.1>Запрещено использование отрядов для захвата поселений других фракций</isolationist.negativeEffects.1>
+  <isolationist.positiveEffects.0>Время на модернизацию поселений и строительство зданий сокращено на 50%\n</isolationist.positiveEffects.0>
+  <isolationist.positiveEffects.1>Каждое поселение получает дополнительно +3 рабочих за уровень поселения\n</isolationist.positiveEffects.1>
+  <isolationist.positiveEffects.2>Все поселения платят на +10% больше налогов\n</isolationist.positiveEffects.2>
+
+  <expansionist.label>Экспансионизм</expansionist.label>
+  <expansionist.desc>Экспансионистское общество стремится распространить свою славу по всему миру.</expansionist.desc>
+  <expansionist.positiveEffects.0>Ваше первое поселение бесплатно\n</expansionist.positiveEffects.0>
+  <expansionist.positiveEffects.1>Раз в год, начиная со второго года, стоимость создания нового поселения снижается на 50%\n</expansionist.positiveEffects.1>
+  <expansionist.positiveEffects.2>Новые поселения начинают со второго уровня развития\n</expansionist.positiveEffects.2>
+
+  <technocratic.label>Технократия</technocratic.label>
+  <technocratic.desc>Технократическое общество стремится к расширению знаний и непрерывному улучшению.</technocratic.desc>
+  <technocratic.positiveEffects.0>Вся научная деятельность, выполняемая вашими поселениями, удваивается\n</technocratic.positiveEffects.0>
+  <technocratic.positiveEffects.1>Вы можете отправлять предметы, исследование которых вы еще не завершили, в ваши поселения для анализа, конвертируя их стоимость в очки исследований.\n</technocratic.positiveEffects.1>
+
+  <feudal.label>Феодализм</feudal.label>
+  <feudal.desc>Феодальное общество поддерживает феодальный договор, связывающий общество с вассалом в обмен на защиту.</feudal.desc>
+  <feudal.negativeEffects.0>\nНеудачная защита ваших поселений приводит к значительному снижению верности</feudal.negativeEffects.0>
+  <feudal.positiveEffects.0>Раз в сезон вы можете запросить опытного наемника из вашей фракции, для присоединения к вашей колонии\n</feudal.positiveEffects.0>
+  <feudal.positiveEffects.1>Доля больше на 20%\n</feudal.positiveEffects.1>
+
+  <slaver.label>Рабство</slaver.label>
+  <slaver.desc>Общество, сосредоточенное на рабстве.</slaver.desc>
+  <slaver.negativeEffects.0>\nПлатные рабочие: -2</slaver.negativeEffects.0>
+  <slaver.negativeEffects.0>Ваша фракция с самого начала использует рабов в своих проектах, получая больше рабочей силы за счет невозможности нанимать много обычных граждан\n</slaver.negativeEffects.0>
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TaxSpot.label>Налоговая метка</TaxSpot.label>
+  <TaxSpot.description>Это место предназначено для сбора налогов и доли ресурсов от поселений.</TaxSpot.description>
+  <TaxSpot_Blueprint.label>Налоговая метка</TaxSpot_Blueprint.label>
+  <TaxSpot_Frame.label>Налоговая метка</TaxSpot_Frame.label>
+  <TaxSpot_Frame.description>Это место предназначено для сбора налогов и доли ресурсов от поселений.</TaxSpot_Frame.description>
+
+
+</LanguageData>

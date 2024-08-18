@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <blacksmithInspiration_0.label>Талантливый оружейник</blacksmithInspiration_0.label>
+	<blacksmithInspiration_0.desc>С вами связывается оружейник из одного поселения. Он объясняет, что его охватило огромное вдохновение, и просит серебро чтобы создать оружие достойное империи. Он планирует подарить его в знак своей преданности</blacksmithInspiration_0.desc>
+
+  <blacksmithInspiration_1-1.label>Вдохновение оружейника</blacksmithInspiration_1-1.label>
+	<blacksmithInspiration_1-1.desc>Оружейник начал работать над вашим подарком...</blacksmithInspiration_1-1.desc>
+
+  <blacksmithInspiration_1-2.label>Вдохновение оружейника</blacksmithInspiration_1-2.label>
+	<blacksmithInspiration_1-2.desc>Оружейник работает над вашим подарком...</blacksmithInspiration_1-2.desc>
+
+  <blacksmithInspiration_1-3.label>Вдохновение оружейника</blacksmithInspiration_1-3.label>
+	<blacksmithInspiration_1-3.desc>Оружейник почти завершил работу над изделием...</blacksmithInspiration_1-3.desc>
+
+</LanguageData>

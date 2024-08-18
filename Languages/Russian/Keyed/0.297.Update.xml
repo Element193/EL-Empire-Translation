@@ -1,0 +1,44 @@
+<LanguageData>
+
+  <settlementAboutToBeAttacked>Поселение {0} будет атаковано фракцией {1}</settlementAboutToBeAttacked>
+  <settlementInDanger>Поселение в опасности</settlementInDanger>
+  <militaryAlreadyDefendingSettlement>Этот отряд уже обороняет цель</militaryAlreadyDefendingSettlement>
+  <defendingMilitaryReset>Оборонительный отряд переназначен</defendingMilitaryReset>
+  <targetAlreadyBeingAttacked>Цель уже подвергается атаке</targetAlreadyBeingAttacked>
+  <settlementMilitaryForcesRaiding>Отряд {0} совершает набег на поселение {1}</settlementMilitaryForcesRaiding>
+  <settlementMilitaryForcesEnslave>Отряд {0} пытается поработить поселение {1}</settlementMilitaryForcesEnslave>
+  <settlementMilitaryForcesCapturing>Отряд {0} пытается захватить {1}</settlementMilitaryForcesCapturing>
+  <militarySent>Отряд отправлен</militarySent>
+  <militarySentToDefend>Отряд {0} был отправлен для обороны поселения {1}</militarySentToDefend>
+  <militaryAlreadyAssigned>Отряд либо выполняет задачи, либо находится в процессе восстановления.</militaryAlreadyAssigned>
+  <RaidLoot>Добыча с набега</RaidLoot>
+  <RaidEnemySettlementSuccess>Набег на поселение {0} успешно завершен</RaidEnemySettlementSuccess>
+  <RaidFailure>Неудача набега</RaidFailure>
+  <RaidEnemySettlementFailure>Набег на поселение {0} завершился неудачей</RaidEnemySettlementFailure>
+  <CaptureSettlement>Захват поселения</CaptureSettlement>
+  <CaptureEnemySettlementSuccess>Отряд {0} успешно захватил поселение {1}. Уровень поселения - {2} из-за технологического уровня фракции.</CaptureEnemySettlementSuccess>
+  <CaptureEnemySettlementFailure>Отряд {0} не смог захватить поселение {1}.</CaptureEnemySettlementFailure>
+  <MilitaryForcesReorganizing>Отряд {0} восстанавливается после выполнения задачи.</MilitaryForcesReorganizing>
+  <DefenseSuccessful>Успешная защита</DefenseSuccessful>
+  <DefenseSuccessfulFull>Защита поселения {0} от фракции {1} завершилась успешно!</DefenseSuccessfulFull>
+  <DefenseFailure>Провал защиты</DefenseFailure>
+  <DefenseFailureFull>Оборона поселения {0} была разгромлена отрядом фракции {1}.</DefenseFailureFull>
+  <BulidingDestroyedInRaid>{0} было разрушено после набега.</BulidingDestroyedInRaid>
+  <SettlementDeleveledRaid>Уровень поселения снизился.</SettlementDeleveledRaid>
+  <AttackSettlementfc>Атаковать поселение</AttackSettlementfc>
+  <CaptureSettlementfc>Захватить поселение</CaptureSettlementfc>
+  <EnslavePopulation>Поработить поселения</EnslavePopulation>
+  <RaidSettlement>Набег на поселение</RaidSettlement>
+  <FCAvailable>Производство</FCAvailable>
+  <ShortMilitary>Военн.</ShortMilitary>
+  <NoValidMilitaries>Нет доступных отрядов.</NoValidMilitaries>
+  <DefendSettlement>Назначить отряд</DefendSettlement>
+  <SettlementDefendingInformation>Информация о защите поселения: {0} - Сила {1}</SettlementDefendingInformation>
+  <ResetToHomeSettlement>Сбросить защитный отряд до домашнего поселения - Сила {0}</ResetToHomeSettlement>
+  <ChangeDefendingForce>Изменить защитный отряд</ChangeDefendingForce>
+  <SendToSettlement>Отправить в поселение</SendToSettlement>
+
+  <EventAffectingSettlements>Это событие влияет на следующие поселения:</EventAffectingSettlements>
+  <TaxesHaveArrived>Налоги прибыли!</TaxesHaveArrived>
+
+</LanguageData>

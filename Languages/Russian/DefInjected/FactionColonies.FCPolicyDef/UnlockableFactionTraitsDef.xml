@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <empty.label>Нету признаков</empty.label>
+
+  <raiders.label>Рейдерство</raiders.label>
+  <raiders.positiveEffects.0>Увеличивает ценность добычи при набегах на 20%\n</raiders.positiveEffects.0>
+  <raiders.positiveEffects.1>При использовании отрядов для набега, они восстанавливаются на 1 день раньше\n</raiders.positiveEffects.1>
+
+  <resilient.label>Стойкость</resilient.label>
+  <resilient.positiveEffects.0>Уменьшает потерю процветания на 50% после неудачной обороны\n</resilient.positiveEffects.0>
+  <resilient.positiveEffects.1>Невозможно потерять здания или уровни поселения после неудачной обороны\n</resilient.positiveEffects.1>
+
+  <defenseInDepth.label>Глубокая оборона</defenseInDepth.label>
+  <defenseInDepth.positiveEffects.0>Боевой уровень выше на 2 при защите\n</defenseInDepth.positiveEffects.0>
+
+  <industrious.label>Усердие</industrious.label>
+  <industrious.positiveEffects.0>С вероятностью 5%, налоги будут выше\n</industrious.positiveEffects.0>
+
+  <roadBuilders.label>Строительство</roadBuilders.label>
+  <roadBuilders.positiveEffects.0>Разблокируется первая технология дорог\n</roadBuilders.positiveEffects.0>
+  <roadBuilders.positiveEffects.1>Дороги строятся на 33% быстрее\n</roadBuilders.positiveEffects.1>
+  <roadBuilders.positiveEffects.2>Дороги также будут строиться, к поселениям союзных фракций\n</roadBuilders.positiveEffects.2>
+
+  <mercantile.label>Торговля</mercantile.label>
+  <mercantile.positiveEffects.0>Случайный караван прибывает в вашу столицу каждые 3-5 дней\n</mercantile.positiveEffects.0>
+
+  <innovative.label>Инновации</innovative.label>
+  <innovative.positiveEffects.0>Поселения пассивно генерируют исследования, равные 5% от их общей прибыли\n</innovative.positiveEffects.0>
+
+  <lucky.label>Везение</lucky.label>
+  <lucky.positiveEffects.0>С вероятностью 20% отрицательное событие фракции будет заменено\n</lucky.positiveEffects.0>
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<FCResetCapitalLocationWarning>Пожалуйста, сбросьте расположение вашей столицы. Если вы продолжаете видеть это сообщение после сброса, пожалуйста, сообщите об этом.</FCResetCapitalLocationWarning>
+	<FCTaxMapNotSetWarning>Ваша налоговая карта не была установлена. Пожалуйста, установите ее, используя меню фракции.</FCTaxMapNotSetWarning>
+	<FCAutoResolveDisabledWarning>Автоматическое разрешение отключено. Эта настройка может вызвать ошибки при генерации карты при защите поселения. Если вы столкнулись с ошибками генерации карты, включите эту настройку обратно!</FCAutoResolveDisabledWarning>
+	
+	<FCManualDefenseWarningLabel>Ручная защита поселений отключена по умолчанию</FCManualDefenseWarningLabel>
+	<FCManualDefenseWarningDesc>Ручная защита поселений по умолчанию отключена из-за множества ошибок, которые могут сделать игру непригодной для игры. Команда решила полностью переработать эту часть мода вместо того, чтобы исправлять различные проблемы. Таким образом, включение ручной защиты поселения происходит на ваш риск. Пожалуйста, не сообщайте о проблемах, касающихся ручной защиты поселения.</FCManualDefenseWarningDesc>
+
+	<FCFireSupportSelectPosition>Выбрать позицию</FCFireSupportSelectPosition>
+	<FCFireSupportNameWillBeFiredOnPosition>{0} совершит выстрел по отмеченой позиции!</FCFireSupportNameWillBeFiredOnPosition>
+	<FCFireSupportNoSilver>У вас недостаточно серебра, чтобы оплатить удар!</FCFireSupportNoSilver>
+</LanguageData>

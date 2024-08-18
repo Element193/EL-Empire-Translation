@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <plagueCamp.label>Чумной лагерь</plagueCamp.label>
+  <plagueCamp.desc>Лагерь содержания для больных и умирающих. Рабочие: -3. Платные рабочие: -2. Исследования: +0.4. Медикаменты: +0.4.</plagueCamp.desc>
+
+  <deforestationCamp.label>Лагерь лесорубов</deforestationCamp.label>
+  <deforestationCamp.desc>Лагерь, от которого местные леса лишаются жизни. Древесина: +25%. Животные: +25%. Стоимость рабочих: +10.</deforestationCamp.desc>
+
+  <herbalMedicineFarm.label>Лекарственные траы</herbalMedicineFarm.label>
+  <herbalMedicineFarm.desc>Маленькая плантация для выращивания лекарственных трав. Медикаменты: +0.25.</herbalMedicineFarm.desc>
+
+  <batteryPowerStation.label>Аккумуляторы</batteryPowerStation.label>
+  <batteryPowerStation.desc>Электростанция для накопления избыточной энергии. Энергия: +0.5. Содержание: -200.</batteryPowerStation.desc>
+
+  <solarPlant.label>Солнечные панели</solarPlant.label>
+  <solarPlant.desc>Ряды солнечных панелей для дополнительного производства энергии. Энергия: +25%. Стоимость рабочих: +10.</solarPlant.desc>
+
+  <cleanEnergyLab.label>Лаборатория энергии</cleanEnergyLab.label>
+  <cleanEnergyLab.desc>Лаборатория по изучению и созданию более эффективных чистых источников энергии. Энергия: +25%. Исследования: +25%. Содержание: -100.</cleanEnergyLab.desc>
+
+  <animalTestingFacility.label>Лаборатория животных</animalTestingFacility.label>
+  <animalTestingFacility.desc>Специализированя лаборатория для тестирования продуктов на животных. Это неэтично, но эффективно. Исследования: +0.25. Медикаменты: +0.25. +25%. Прирост волнения: +25%. Содержание: -100.</animalTestingFacility.desc>
+
+  <apartmentHousing.label>Жилой комплекс</apartmentHousing.label>
+  <apartmentHousing.desc>Большой жилой комплекс для размещения местных рабочих. Рабочие: +8. Платные рабочие: +5. Содержаеие: -500.</apartmentHousing.desc>
+
+  <perpetualMotionGenerator.label>Генератор движения</perpetualMotionGenerator.label>
+  <perpetualMotionGenerator.desc>Это нарушение законов физики! Генератор, производящий энергию по концепции вечного движения. Энергия: +50%. Содержание: -400.</perpetualMotionGenerator.desc>
+
+  <bionicsManufacturingPlant.label>Завод бионики</bionicsManufacturingPlant.label>
+  <bionicsManufacturingPlant.desc>Производственный комплекс, специализированный для создания бионических протезов. Медикаменты: +0.5. Боевая эффективность: +10%. Содержание: -200.</bionicsManufacturingPlant.desc>
+
+  <archotechGenerator.label>Генератор аркотехов</archotechGenerator.label>
+  <archotechGenerator.desc>Даже инженеры, обслуживающие этот генератот не могут понять его тайны. Энергия: +100%. Содержание: -1000.</archotechGenerator.desc>
+
+</LanguageData>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<FCTitle_Food_1>Фермерское поселение</FCTitle_Food_1>
+<FCTitle_Food_2>Пищевая фабрика</FCTitle_Food_2>
+<FCTitle_Food_3>Пищевая мега-фабрика</FCTitle_Food_3>
+
+<FCTitle_Weapons_1>Поселение оружейников</FCTitle_Weapons_1>
+<FCTitle_Weapons_2>Оружейная компания</FCTitle_Weapons_2>
+<FCTitle_Weapons_3>Оружейная мега-фабрика</FCTitle_Weapons_3>
+
+<FCTitle_Apparel_1>Поселение текстильщиков</FCTitle_Apparel_1>
+<FCTitle_Apparel_2>Региональный бренд</FCTitle_Apparel_2>
+<FCTitle_Apparel_3>Центр мастеров-бронников</FCTitle_Apparel_3>
+
+<FCTitle_Animals_1>Поселение животноводов</FCTitle_Animals_1>
+<FCTitle_Animals_2>Региональный зоопарк</FCTitle_Animals_2>
+<FCTitle_Animals_3>Планетарный зоопарк</FCTitle_Animals_3>
+
+<FCTitle_Logging_1>Лесопилка</FCTitle_Logging_1>
+<FCTitle_Logging_2>Региональный центр лесодобычи</FCTitle_Logging_2>
+<FCTitle_Logging_3>Планетарный лесодобывающий центр</FCTitle_Logging_3>
+
+<FCTitle_Mining_1>Поселение шахтеров</FCTitle_Mining_1>
+<FCTitle_Mining_2>Шазтерский центр</FCTitle_Mining_2>
+<FCTitle_Mining_3>Мега-карьер</FCTitle_Mining_3>
+
+<FCTitle_Research_1>Лаборатории</FCTitle_Research_1>
+<FCTitle_Research_2>Научный центр</FCTitle_Research_2>
+<FCTitle_Research_3>Центр мировых инноваций</FCTitle_Research_3>
+
+<FCTitle_Power_1>Электростанция</FCTitle_Power_1>
+<FCTitle_Power_2>Энергетический центр</FCTitle_Power_2>
+<FCTitle_Power_3>Мега-реактор</FCTitle_Power_3>
+
+<FCTitle_Medicine_1>Региональная больница</FCTitle_Medicine_1>
+<FCTitle_Medicine_2>Региональный мед. центр</FCTitle_Medicine_2>
+<FCTitle_Medicine_3>Планитарный мед. центр</FCTitle_Medicine_3>
+
+</LanguageData>

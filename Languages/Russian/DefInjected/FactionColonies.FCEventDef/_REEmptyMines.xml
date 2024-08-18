@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<emptyMines.label>Пустующие шахты</emptyMines.label>
+	<emptyMines.desc>В шахтах почти не осталось ресурсов для добычи.\n Добыча: -1</emptyMines.desc>
+
+</LanguageData>

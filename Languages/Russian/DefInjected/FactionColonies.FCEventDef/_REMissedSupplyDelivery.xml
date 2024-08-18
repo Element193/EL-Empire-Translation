@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<missedSupplyDelivery.label>Нехватка ресурсов</missedSupplyDelivery.label>
+	<missedSupplyDelivery.desc>Ремесленники в пострадавших регионах страдают от нехватки ресурсов.\n Оружие: -0.5.\n Одежда: -0.5</missedSupplyDelivery.desc>
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EmpirePowerGenerator.label>Фракционный генератор</EmpirePowerGenerator.label>
+  <EmpirePowerGenerator.description>Позволяет передавать энергию, созданную в поселениях, в вашу колонию!</EmpirePowerGenerator.description>
+  <EmpirePowerGenerator_Blueprint.label>Фракционный генератор</EmpirePowerGenerator_Blueprint.label>
+  <EmpirePowerGenerator_Frame.label>Фракционный генератор</EmpirePowerGenerator_Frame.label>
+  <EmpirePowerGenerator_Frame.description>Позволяет передавать энергию, созданную в поселениях, в вашу колонию!</EmpirePowerGenerator_Frame.description>
+
+
+</LanguageData>

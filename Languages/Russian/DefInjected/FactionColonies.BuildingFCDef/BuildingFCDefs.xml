@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Empty.label>Место для стройки</Empty.label>
+  <Empty.desc>Нажмите для строительства</Empty.desc>
+  <Construction.label>Возводится постройка</Construction.label>
+  <Construction.desc>Здесь строится здание...</Construction.desc>
+
+</LanguageData>

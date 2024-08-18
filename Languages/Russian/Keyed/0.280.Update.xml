@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<SetCapital>Назначить столицу</SetCapital>
+
+<DeathOfFactionPawn>Ваша некомпетентность привела к смерти жителя вашего поселения! Волнения выросли.</DeathOfFactionPawn>
+<CaptureOfFactionPawn>Захват одного из жителей поселения вызвал большое волнение среди ваших поселений.</CaptureOfFactionPawn>
+
+<UnpaidTitheEffect>Уровень волнений увеличился на 10, счастья снизилось в поселениях! </UnpaidTitheEffect>
+
+</LanguageData>

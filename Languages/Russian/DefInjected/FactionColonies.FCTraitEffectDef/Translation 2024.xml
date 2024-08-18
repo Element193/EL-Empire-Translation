@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <shuttlePort.label>Порт для шаттлов</shuttlePort.label>
+
+  <plagueCamp.label>Чумной лагерь</plagueCamp.label>
+
+  <deforestationCamp.label>Лагерь лесорубов</deforestationCamp.label>
+
+  <herbalMedicineFarm.label>Ферма лек. трав</herbalMedicineFarm.label>
+
+  <batteryPowerStation.label>Аккумуляторная станция</batteryPowerStation.label>
+
+  <solarPlant.label>Солн. Электростанция</solarPlant.label>
+
+  <cleanEnergyLab.label>Энерголаборатория</cleanEnergyLab.label>
+
+  <animalTestingFacility.label>Эксп. Лаба с животными</animalTestingFacility.label>
+
+  <apartmentHousing.label>Аппартаменты</apartmentHousing.label>
+
+  <perpetualMotionGenerator.label>Генератор вечного движения</perpetualMotionGenerator.label>
+
+  <bionicsManufacturingPlant.label>Завод бионики</bionicsManufacturingPlant.label>
+
+  <archotechGenerator.label>Генератор Архотек</archotechGenerator.label>
+
+  <LightConverter.label>Конвертер света Архотек</LightConverter.label>
+
+  <AnimalBeacon.label>Архо-маяк для животных</AnimalBeacon.label>
+
+  <TrappedAI.label>Запертый ИИ</TrappedAI.label>
+
+  <UnionOffices.label>Офисы Союза</UnionOffices.label>
+
+  <OrbitalSpaceLaser.label>Орбитальный лазер</OrbitalSpaceLaser.label>
+
+  <TransdimensionalMarket.label>Пространственный рынок</TransdimensionalMarket.label>
+
+  <theNewPioneers.label>Бывшие заключенные</theNewPioneers.label>
+  <theNewPioneers.desc>Фракция, стремящаяся постоянно расширять свои границы. Стоимость расширения снижена на 10%.</theNewPioneers.desc>
+
+  <mercenaries.label>Наемники</mercenaries.label>
+  <mercenaries.desc>Фракция, в которой население состоит из большого количества бывших или нынешних наемников. Эффективность в бою увеличена на 25%, стоимость рабочих увеличена на $10.</mercenaries.desc>
+
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Null.label>Зачем</Null.label>
+  <Null.desc>Ты сюда посмотрел?</Null.desc>
+
+  <settleNewColony.label>Основание поселения</settleNewColony.label>
+  <settleNewColony.desc>Караван основывает новую колонию.</settleNewColony.desc>
+
+  <taxColony.label>Налоги в пути</taxColony.label>
+  <taxColony.desc>Караван доставляет налоги.</taxColony.desc>
+
+  <constructBuilding.label>Возведение постройки</constructBuilding.label>
+  <constructBuilding.desc>Строится здание.</constructBuilding.desc>
+
+  <enactSettlementPolicy.label>Введение политики</enactSettlementPolicy.label>
+  <enactSettlementPolicy.desc>Вводится политика для всего поселения.</enactSettlementPolicy.desc>
+
+  <enactFactionPolicy.label>Введение политики</enactFactionPolicy.label>
+  <enactFactionPolicy.desc>Вводится политика для всей фракции.</enactFactionPolicy.desc>
+
+  <upgradeSettlement.label>Улучшение поселения</upgradeSettlement.label>
+  <upgradeSettlement.desc>Поселение улучшается.</upgradeSettlement.desc>
+
+</LanguageData>
