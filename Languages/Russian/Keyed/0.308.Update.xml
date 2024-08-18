@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <DefenseSuccessfulFull>Защита поселения {0} была успешной!</DefenseSuccessfulFull>
-    <DefenseFailureFull>Защита нашего поселения, {0}, была провальной.</DefenseFailureFull>
+    <DefenseSuccessfulFull>Защита поселения {0} прошла успешно!</DefenseSuccessfulFull>
+    <DefenseFailureFull>Защита поселения {0} увенчалась провалом.</DefenseFailureFull>
 
 </LanguageData>

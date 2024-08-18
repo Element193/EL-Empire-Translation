@@ -1,7 +1,50 @@
 <LanguageData>
 
-  <settlementAboutToBeAttacked>Поселение {0} будет атаковано фракцией {1}</settlementAboutToBeAttacked>
-  <settlementInDanger>Поселение в опасности</settlementInDanger>
+  <settlementAboutToBeAttacked>Фракция {1} готовит нападение на поселение {0}!</settlementAboutToBeAttacked>
+  <settlementInDanger>Поселение в опасности!</settlementInDanger>
+  <militaryAlreadyDefendingSettlement>Этот отряд уже назначен на оборону поселения.</militaryAlreadyDefendingSettlement>
+  <defendingMilitaryReset>Оборонительный отряд переназначен.</defendingMilitaryReset>
+  <targetAlreadyBeingAttacked>Цель уже подвергается нападению.</targetAlreadyBeingAttacked>
+  <settlementMilitaryForcesRaiding>Отряд {0} совершает нападение на поселение {1}.</settlementMilitaryForcesRaiding>
+  <settlementMilitaryForcesEnslave>Отряд {0} пытается поработить поселение {1}.</settlementMilitaryForcesEnslave>
+  <settlementMilitaryForcesCapturing>Отряд {0} пытается захватить поселение {1}.</settlementMilitaryForcesCapturing>
+  <militarySent>Отряд отправлен.</militarySent>
+  <militarySentToDefend>Отряд {0} был отправлен на оборону поселения {1}.</militarySentToDefend>
+  <militaryAlreadyAssigned>Отряд в процессе восстановления, или выполняет задачу.</militaryAlreadyAssigned>
+  <RaidLoot>Добыча!</RaidLoot>
+  <RaidEnemySettlementSuccess>Набег на поселение {0} завершилось успехом.</RaidEnemySettlementSuccess>
+  <RaidFailure>Неудачный набег</RaidFailure>
+  <RaidEnemySettlementFailure>Набег на поселение {0} завершилось провалом.</RaidEnemySettlementFailure>
+  <CaptureSettlement>Попытка захвата</CaptureSettlement>
+  <CaptureEnemySettlementSuccess>Отряд {0} успешно захватил поселение {1}. Уровень поселения - {2} из-за технологического уровня фракции.</CaptureEnemySettlementSuccess>
+  <CaptureEnemySettlementFailure>Отряд {0} провалил операцию по захвату поселения {1}.</CaptureEnemySettlementFailure>
+  <MilitaryForcesReorganizing>Отряд {0} восстанавливается после задач.</MilitaryForcesReorganizing>
+  <DefenseSuccessful>Успешная оборона!</DefenseSuccessful>
+  <DefenseSuccessfulFull>Поселение {0} выстояло против нападения фракции {1}!</DefenseSuccessfulFull>
+  <DefenseFailure>Провальная оборона!</DefenseFailure>
+  <DefenseFailureFull>Оборона поселения {0} была разгромлена отрядом фракции {1}.</DefenseFailureFull>
+  <BulidingDestroyedInRaid>{0} разрушено после набега.</BulidingDestroyedInRaid>
+  <SettlementDeleveledRaid>Уровень поселения понизился.</SettlementDeleveledRaid>
+  <AttackSettlementfc>Атаковать поселение</AttackSettlementfc>
+  <CaptureSettlementfc>Захватить поселение</CaptureSettlementfc>
+  <EnslavePopulation>Поработить поселения</EnslavePopulation>
+  <RaidSettlement>Набег на поселение</RaidSettlement>
+  <FCAvailable>Производство</FCAvailable>
+  <ShortMilitary>Военн.</ShortMilitary>
+  <NoValidMilitaries>Нет доступных отрядов.</NoValidMilitaries>
+  <DefendSettlement>Назначить отряд</DefendSettlement>
+  <SettlementDefendingInformation>Информация о защите поселения: {0} - Сила {1}.</SettlementDefendingInformation>
+  <ResetToHomeSettlement>Переназначить защитный отряд для домашнего поселения - Сила {0}.</ResetToHomeSettlement>
+  <ChangeDefendingForce>Назначить защитный отряд</ChangeDefendingForce>
+  <SendToSettlement>Отправить в поселение</SendToSettlement>
+
+  <EventAffectingSettlements>Это событие влияет на следующие поселения:</EventAffectingSettlements>
+  <TaxesHaveArrived>Налоги доставлены!</TaxesHaveArrived>
+
+
+
+<!--  OLD <19.08.24 <settlementAboutToBeAttacked>Поселение {0} будет атаковано фракцией {1}</settlementAboutToBeAttacked>
+  <settlementInDanger>Поселение в опасности!</settlementInDanger>
   <militaryAlreadyDefendingSettlement>Этот отряд уже обороняет цель</militaryAlreadyDefendingSettlement>
   <defendingMilitaryReset>Оборонительный отряд переназначен</defendingMilitaryReset>
   <targetAlreadyBeingAttacked>Цель уже подвергается атаке</targetAlreadyBeingAttacked>
@@ -39,6 +82,6 @@
   <SendToSettlement>Отправить в поселение</SendToSettlement>
 
   <EventAffectingSettlements>Это событие влияет на следующие поселения:</EventAffectingSettlements>
-  <TaxesHaveArrived>Налоги прибыли!</TaxesHaveArrived>
+  <TaxesHaveArrived>Налоги прибыли!</TaxesHaveArrived>-->
 
 </LanguageData>

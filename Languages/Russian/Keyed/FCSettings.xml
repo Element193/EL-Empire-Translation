@@ -2,18 +2,18 @@
 <LanguageData>
 
 	<FCSettingSilverPerResource>Количество полученного серебра за ресурс</FCSettingSilverPerResource>
-	<FCSettingDaysBetweenTax>Дни между сбором налогов</FCSettingDaysBetweenTax>
+	<FCSettingDaysBetweenTax>Дни между сборами налогов</FCSettingDaysBetweenTax>
 	<FCSettingProductionTitheMod>Модификатор доли</FCSettingProductionTitheMod>
 	<FCSettingWorkerCost>Стоимость рабочего</FCSettingWorkerCost>
-	<FCSettingMaxSettlementLevel>Максимальный уровень поселения</FCSettingMaxSettlementLevel>
+	<FCSettingMaxSettlementLevel>Максимальный уровень поселений</FCSettingMaxSettlementLevel>
 	<FCSettingDisableHostileMilActions>Отключить враждебные действия</FCSettingDisableHostileMilActions>
 	<FCSettingDisableRandomEvents>Отключить события</FCSettingDisableRandomEvents>
-	<FCSettingDeadPawnsIncreaseMilCooldown>Мертвые пешки увеличивают откат отрада</FCSettingDeadPawnsIncreaseMilCooldown>
-	<FCSettingForcedPausing>Отключить паузу при ивентах</FCSettingForcedPausing>
-	<FCSettingAutoResolveBattles>Автоматическое разрешение битвы</FCSettingAutoResolveBattles>
+	<FCSettingDeadPawnsIncreaseMilCooldown>Смерти в отряде увеличивают время его восстановления</FCSettingDeadPawnsIncreaseMilCooldown>
+	<FCSettingForcedPausing>Отключить паузу при событиях</FCSettingForcedPausing>
+	<FCSettingAutoResolveBattles>Автоматический расчёт сражения</FCSettingAutoResolveBattles>
 	<FCSettingMinMaxMilitaryAction>Мин/Макс Дней между боевыми действиями</FCSettingMinMaxMilitaryAction>
-	<FCSettingMinMaxRandomEvent>Мин/Макс Дней между ивентами</FCSettingMinMaxRandomEvent>
-	<FCSettingResetButton>Сброс настроек</FCSettingResetButton>
-	<FCOpenPatchNotes>История изменений</FCOpenPatchNotes>
+	<FCSettingMinMaxRandomEvent>Мин/Макс Дней между событиями</FCSettingMinMaxRandomEvent>
+	<FCSettingResetButton>Сбросить настройки</FCSettingResetButton>
+	<FCOpenPatchNotes>Обновления мода</FCOpenPatchNotes>
 
 </LanguageData>

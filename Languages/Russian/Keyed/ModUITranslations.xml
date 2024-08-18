@@ -7,11 +7,11 @@
 
 
     <!-- billFC Class -->
-    <NotEnoughSilverForBill>У вас недостаточно серебра, чтобы оплатить счет от</NotEnoughSilverForBill>
+    <NotEnoughSilverForBill>Недостаточно серебра, чтобы оплатить счет от</NotEnoughSilverForBill>
     <ConfiscatedTithes>Они конфисковали вашу долю.</ConfiscatedTithes>
 
     <!-- billWindowFC -->
-    <OutstandingBills>Неоплачено</OutstandingBills>
+    <OutstandingBills>Не оплачено</OutstandingBills>
     <Name>Название</Name>
     <!--<Source>Source</Source>-->
     <DueDate>Даты выплат</DueDate>
@@ -19,11 +19,11 @@
     <HasTithe>Доля</HasTithe>
     <PayReceiveSilver>Заплатить/получить серебро</PayReceiveSilver>
     <ResolveBill>Получить выплату</ResolveBill>
-    <NotEnoughSilverOnMapToPayBill>На текущей карте у вас недостаточно серебра, чтобы оплатить счет.</NotEnoughSilverOnMapToPayBill>
+    <NotEnoughSilverOnMapToPayBill>На текущей карте недостаточно серебра чтобы оплатить счет.</NotEnoughSilverOnMapToPayBill>
 
     <!-- Manual defense -->
     <DefendColony>Защита</DefendColony>
-    <DefendColonyDesc>Ручная защита</DefendColonyDesc>
+    <DefendColonyDesc>Ручная защита поселений</DefendColonyDesc>
 
     <!-- createColonyWindowFC -->
     <SettleANewColony>Основать поселение</SettleANewColony>
@@ -36,8 +36,8 @@
     <Final>Итог</Final>
     <Settle>Основать</Settle>
     <CaravanOnWay>Караван уже в пути</CaravanOnWay>
-    <CaravanSentToLocation>Караван был отправлен в указанное место! Они прибудут через</CaravanSentToLocation>
-    <NotEnoughSilverToSettle>На текущей карте у вас недостаточно серебра для основания новой колонии.</NotEnoughSilverToSettle>
+    <CaravanSentToLocation>Караван отправлен в указанное место! Он прибудет через</CaravanSentToLocation>
+    <NotEnoughSilverToSettle>На текущей карте недостаточно серебра для основания нового поселения.</NotEnoughSilverToSettle>
 
     <!-- descWindowFC -->
     <!--<Description>Description</Description>-->
@@ -51,9 +51,9 @@
     <!--factionCustomizeWindowFC -->
     <CustomizeFaction>Настройки фракции</CustomizeFaction>
     <FactionName>Название</FactionName>
-    <FactionTitle>Подназвание</FactionTitle>
-    <FactionIcon>Иконка фракции</FactionIcon>
-	<InvalidFaction>Эта фракция не способна управлять империей самостоятельно!</InvalidFaction>
+    <FactionTitle>Описание</FactionTitle>
+    <FactionIcon>Значок</FactionIcon>
+	  <InvalidFaction>Эта фракция неспособна управлять империей самостоятельно!</InvalidFaction>
     <ButtonNotAvailable>Эта кнопка пока недоступна</ButtonNotAvailable>
     <ConfirmChanges>Подтвердить изменения</ConfirmChanges>
 
@@ -65,25 +65,25 @@
     <!--<Apparel>Apparel</Apparel>-->
     <Animals>Животные</Animals>
     <Logging>Древесина</Logging>
-    <Mining>Добыча</Mining>
+    <Mining>Руда</Mining>
     <Researching>Исследования</Researching>
-    <PolicyAlreadyEnacted>Эта политика уже была принята.</PolicyAlreadyEnacted>
-    <NotEnoughMoneyToEnact>На текущей карте у вас недостаточно серебра, чтобы внедрить эту политику.</NotEnoughMoneyToEnact>
-  <AlreadyPolicyTypeBeingEnacted>Уже ведется внедрение политики этого типа</AlreadyPolicyTypeBeingEnacted>
-  <AlreadyPolicyInSlot>Уже ведется внедрение политики в этом слоте</AlreadyPolicyInSlot>
+    <PolicyAlreadyEnacted>Эта политика уже действует.</PolicyAlreadyEnacted>
+    <NotEnoughMoneyToEnact>На текущей карте недостаточно серебра для начала этой политики.</NotEnoughMoneyToEnact>
+  <AlreadyPolicyTypeBeingEnacted>Уже действует подобная политика.</AlreadyPolicyTypeBeingEnacted>
+  <AlreadyPolicyInSlot>Уже действует политика в этом слоте.</AlreadyPolicyInSlot>
   <SettlementTax>Налог поселения</SettlementTax>
   <WeekOf>неделя</WeekOf>
-  <TaxesBilled>Налоги были выставлены</TaxesBilled>
-  <NoSettlementsToTax>Нет поселений для налогообложения</NoSettlementsToTax>
-  <CouldNotFindMapOfCapital>Не удалось найти карту столицы</CouldNotFindMapOfCapital>
-  <ResearchGeneratedWaste>Сгенерированные исследовательские очки вашей фракции были потрачены впустую, так как вы не выбрали исследования</ResearchGeneratedWaste>
+  <TaxesBilled>Налоги выставлены</TaxesBilled>
+  <NoSettlementsToTax>Нет поселений для сбора налогов.</NoSettlementsToTax>
+  <CouldNotFindMapOfCapital>Не удалось найти столицу.</CouldNotFindMapOfCapital>
+  <ResearchGeneratedWaste>Исследовательские очки вашей фракции были потрачены впустую. Не выбрано исследование.</ResearchGeneratedWaste>
 
     <!-- FCevent -->
     <TaxesFrom>Налоги от</TaxesFrom>
     <HaveBeenDelivered>были доставлены</HaveBeenDelivered>
     <HasBeenConstructedAt>построено в</HasBeenConstructedAt>
-    <HasBeenEnactedAt>была внедрена в</HasBeenEnactedAt>
-    <EnactedInYourFaction>была внедрена в вашей фракции</EnactedInYourFaction>
+    <HasBeenEnactedAt>действует в</HasBeenEnactedAt>
+    <EnactedInYourFaction>действует в вашей фракции</EnactedInYourFaction>
 
     <!-- listBuildingFC -->
     <ConstructBuilding>Строительство</ConstructBuilding>
@@ -109,16 +109,16 @@
     <TitheList>Доля</TitheList>
     <StackCount>Количество</StackCount>
     <!--<MarketValue>Market Value</MarketValue>-->
-    <FCTotalValue>Итог. Значение</FCTotalValue>
+    <FCTotalValue>Итог. значение</FCTotalValue>
     <CashSymbol></CashSymbol>
 
     <!-- MainTabWindow_Colony -->
     <SettlementManager>Поселения</SettlementManager>
     <CreateNewColony>Основать поселение</CreateNewColony>
-    <SelectTile>Выберите область для создания новой колонии</SelectTile>
-    <SetAsFactionCapital>{0} установлено в качестве столицы</SetAsFactionCapital>
-	<NoFactionForMilitary>Это недоступно без фракции!</NoFactionForMilitary>
-	<selectedInvalidTile>Вы не можете построить поселение здесь!</selectedInvalidTile>
+    <SelectTile>Выберите место для основания поселения</SelectTile>
+    <SetAsFactionCapital>Установлена столица фракции - {0}</SetAsFactionCapital>
+	<NoFactionForMilitary>Боевые действия доступны только для фракции. Создайте фракцию!</NoFactionForMilitary>
+	<selectedInvalidTile>Здесь нельзя основать поселение!</selectedInvalidTile>
 	
     <!--<Faction>Faction</Faction>-->
     <Colonies>Колонии</Colonies>
@@ -137,6 +137,7 @@
     <FactionUnrest>Волнения Фракции</FactionUnrest>
     <FactionProsperity>Процветание Фракции</FactionProsperity>
 
+<!-- KEYED текст исправлен до этой строки 18.08.24 -->
     <FactionHappinessDesc>Измерение общего счастья фракции. Высокое счастье означает, что внутренние конфликты в поселении будут склоняться в вашу пользу.</FactionHappinessDesc>
     <FactionLoyaltyDesc>Измерение общей лояльности фракции. Лояльность поселения определяет, насколько оно готово вас слушать. Высокая лояльность уменьшает риск дезертирства.</FactionLoyaltyDesc>
     <FactionUnrestDesc>Измерение общего волнения фракции. Чем выше волнение, тем больше шансов на возникновение опасных событий внутри вашей фракции. При слишком высоком уровне волнений может начаться массовое восстание.</FactionUnrestDesc>

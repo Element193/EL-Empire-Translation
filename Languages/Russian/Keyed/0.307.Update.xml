@@ -1,24 +1,24 @@
 <LanguageData>
 
-  <OverwhelmingVictory>Полная победа</OverwhelmingVictory>
-  <OverwhelmingVictoryDesc>Благодаря полной победе, отряд остается доступным для развертывания.</OverwhelmingVictoryDesc>
-  <TaxesFromSettlementAreBeingDelivered>Налоги от поселения {0} направляются к вашему пункту сбора налогов!</TaxesFromSettlementAreBeingDelivered>
+  <OverwhelmingVictory>Великолепная победа</OverwhelmingVictory>
+  <OverwhelmingVictoryDesc>Благодаря сокрушительной победе отряд готов к выполнению новых задач.</OverwhelmingVictoryDesc>
+  <TaxesFromSettlementAreBeingDelivered>Налоги от поселения {0} отправлены в пункт сбора!</TaxesFromSettlementAreBeingDelivered>
   <DueFC>Налоги</DueFC>
-  <ResearchExpended>Использовано {0} очков исследований для исследования {1}. У вас осталось {2} очков.</ResearchExpended>
+  <ResearchExpended>Выделено {0} очков исследований для {1}. У вас {2} очков исследований.</ResearchExpended>
   <ResearchPointsExpended>Исследования израсходованы</ResearchPointsExpended>
-  <NoResearchExpended>Сегодня не было использовано исследований. У вас осталось {0} очков.</NoResearchExpended>
-  <PointsAddedToResearchPool>Добавлено {0} очков в пул исследований!</PointsAddedToResearchPool>
-  <SetAsEmpirePowerOutput>Установить как источник фракционной энергии</SetAsEmpirePowerOutput>
-  <SetAsOutput>Установить как источник энергии</SetAsOutput>
-  <SetAsOutputSuccess>Генератор был установлен как источник энергии для ваших поселений!</SetAsOutputSuccess>
-  <NumberTaxesHasBeenSolved>Автоматически разрешено {0} счетов!</NumberTaxesHasBeenSolved>
+  <NoResearchExpended>Сегодня не было использовано исследований. У вас {0} очков исследований.</NoResearchExpended>
+  <PointsAddedToResearchPool>Добавлено {0} очков исследований!</PointsAddedToResearchPool>
+  <SetAsEmpirePowerOutput>Назначить как выход фракционной энергии</SetAsEmpirePowerOutput>
+  <SetAsOutput>Установить источником фракционной энергии</SetAsOutput>
+  <SetAsOutputSuccess>Генератор назначен как источник фракционной энергии!</SetAsOutputSuccess>
+  <NumberTaxesHasBeenSolved>Автоматически оплачено {0} налогов!</NumberTaxesHasBeenSolved>
   <PrisonersMenu>Пленники</PrisonersMenu>
   <FCWorkload>нагрузка</FCWorkload>
   <FCHeavy>тяжелая</FCHeavy>
   <FCMedium>средняя</FCMedium>
   <FCLight>легкая</FCLight>
-  <FCHeavyExplanation>Рабочие: +2. Уменьшает здоровье на 20.</FCHeavyExplanation>
-  <FCMediumExplanation>Рабочие: +1. Уменьшает здоровье на 10.</FCMediumExplanation>
+  <FCHeavyExplanation>Рабочие в поселении: +2. Уменьшает здоровье на 20.</FCHeavyExplanation>
+  <FCMediumExplanation>Рабочие в поселении: +1. Уменьшает здоровье на 10.</FCMediumExplanation>
   <FCLightExplanation>Платные рабочие: +1. Увеличивает здоровье на 4</FCLightExplanation>
   <Actions>Действия</Actions>
   <SellPawn>Продать</SellPawn>
@@ -40,65 +40,65 @@
   <FCShipBasics>Космический</FCShipBasics>
   <FCFabrication>Индустриальный</FCFabrication>
   <FCElectricity>Электрический</FCElectricity>
-  <FCSmithing>Металический</FCSmithing>
-  <CurrentResearchLevel>Ваш текущий уровень технологии - {0}. Чтобы достичь следующего уровня технологии, вам необходимо исследовать {1}</CurrentResearchLevel>
+  <FCSmithing>Доэлектрический</FCSmithing>
+  <CurrentResearchLevel>Ваш текущий технологичный уровень - {0}. Чтобы достичь следующего уровня технологии, вам необходимо исследовать {1}</CurrentResearchLevel>
   <AllowedRaces>Разрешенные расы</AllowedRaces>
-  <CannotHaveLessThanOneRace>Не может быть меньше одной расы в вашей фракции</CannotHaveLessThanOneRace>
-  <SettlementNotBeingAttacked>Поселение не подвергается атаке</SettlementNotBeingAttacked>
+  <CannotHaveLessThanOneRace>Не может быть меньше одной расы в фракции.</CannotHaveLessThanOneRace>
+  <SettlementNotBeingAttacked>Поселение не подвергается нападению.</SettlementNotBeingAttacked>
   <MedievalTechOnly>Только средневековые технологии</MedievalTechOnly>
-  <ForeignMilitarySwitch>Отряд поселения {0} был отправлен на защиту {1}. Общая мощь составляет {2}</ForeignMilitarySwitch>
-  <FCMilitarySentCapture>Отряд поселения {0} был отправлен для захвата {1}</FCMilitarySentCapture>
+  <ForeignMilitarySwitch>Отряд поселения {0} отправлен для обороны {1}. Общая мощь составляет {2}</ForeignMilitarySwitch>
+  <FCMilitarySentCapture>Отряд поселения {0} отправлен для захвата {1}</FCMilitarySentCapture>
   <FCMilitarySentRaid>Отряд поселения {0} был отправлен для набега на {1}</FCMilitarySentRaid>
   <FCMilitarySentEnslave>Отряд поселения {0} был отправлен для порабощения {1}</FCMilitarySentEnslave>
-  <FCMilitaryCooldown>Отряд поселения {0} готов к развертыванию</FCMilitaryCooldown>
+  <FCMilitaryCooldown>Отряд поселения {0} готов к выполнению задач!</FCMilitaryCooldown>
   <FCSettlementFormed>Поселение сформировано</FCSettlementFormed>
   <FreeWorkers>Рабочие</FreeWorkers>
-  <ToggleAutoDefend>Автоматически защищать поселения: {0}</ToggleAutoDefend>
+  <ToggleAutoDefend>Автономно защищать поселения: {0}</ToggleAutoDefend>
 
   <FCOverview>Обзор</FCOverview>
-  <FCTraits>Принципы</FCTraits>
-  <FCSelectTraits0>Выберите два принципа! Но знайте, что этот выбор необратим!</FCSelectTraits0>
-  <FCSelectTraits2>Помните, что после выхода из этого окна ваш выбор будет необратим!</FCSelectTraits2>
-  <FCConflictingTraits>Вы не можете иметь конфликтующие принципы!</FCConflictingTraits>
-  <FCUnselectTrait>Вы должны снять выбор с одного из ваших текущих принципов, чтобы выбрать другой!</FCUnselectTrait>
-  <FCTraitsChosen>Вы уже выбрали принципы. Вы не можете больше их изменять!</FCTraitsChosen>
-  <NotEnoughSilverToDeploySquad>У вас недостаточно серебра для повторного развертывания этого отряда!</NotEnoughSilverToDeploySquad>
-  <XDaysToRedeploy>Осталось {0} дней до обновления возможности повторного развертывания отрядов</XDaysToRedeploy>
-  <FCRelationImproved>Отношения Улучшены!</FCRelationImproved>
-  <FCRelationImprovedText>Ваше взаимодействие с {0} привело к улучшению отношений на {1}!</FCRelationImprovedText>
-  <FCRelationNotImproved>Отношения Не Улучшены</FCRelationNotImproved>
-  <FCFailedToImproveRelationship>Ваше взаимодействие с {0} не улучшило отношения.</FCFailedToImproveRelationship>
-  <XDaysToSendDiplomat>Осталось {0} дней до обновления возможности улучшения отношений</XDaysToSendDiplomat>
-  <FCIncreaseRelations>Попытка Улучшить Отношения</FCIncreaseRelations>
-  <FCCannotImproveRelationsWithType>Вы не можете улучшать отношения с фракциями этого типа</FCCannotImproveRelationsWithType>
-  <FCSpecialActions>Специальные действия</FCSpecialActions>
-  <FCBuyLoyalty>Купить верность</FCBuyLoyalty>
+  <FCTraits>Особенности</FCTraits>
+  <FCSelectTraits0>Выберите две особенности вашей фракции! Это действие необратимо!</FCSelectTraits0>
+  <FCSelectTraits2>После выхода из этого окна выбор будет необратим!</FCSelectTraits2>
+  <FCConflictingTraits>Выбраны конфликтующие (противоположные) особенности!</FCConflictingTraits>
+  <FCUnselectTrait>Для выбора другой особенности фракции нужно снять выбор с одной из действующих!</FCUnselectTrait>
+  <FCTraitsChosen>Вы уже выбрали особенности фракции.</FCTraitsChosen>
+  <NotEnoughSilverToDeploySquad>Недостаточно серебра для повторного развертывания этого отряда!</NotEnoughSilverToDeploySquad>
+  <XDaysToRedeploy>Осталось {0} дней до возможности повторно развернуть отряды</XDaysToRedeploy>
+  <FCRelationImproved>Успешные переговоры!</FCRelationImproved>
+  <FCRelationImprovedText>Переговоры с фракцией {0} привели к улучшению отношений на {1}!</FCRelationImprovedText>
+  <FCRelationNotImproved>Неудачные переговоры</FCRelationNotImproved>
+  <FCFailedToImproveRelationship>Переговоры с фракцией {0} не увенчались успехом.</FCFailedToImproveRelationship>
+  <XDaysToSendDiplomat>Осталось {0} дней до возможности следующих переговоров</XDaysToSendDiplomat>
+  <FCIncreaseRelations>Переговоры</FCIncreaseRelations>
+  <FCCannotImproveRelationsWithType>Вы не можете вести переговоры с фракциями такого типа</FCCannotImproveRelationsWithType>
+  <FCSpecialActions>Распоряжения</FCSpecialActions>
+  <FCBuyLoyalty>Купить лояльность</FCBuyLoyalty>
   <SendSilverToColony>Отправить серебро</SendSilverToColony>
-  <SendingXSilver>Отправка {0} серебра</SendingXSilver>
-  <SettlementGainsXLoyalty>Поселение получит {0} верности</SettlementGainsXLoyalty>
+  <SendingXSilver>Отправление {0} серебра</SendingXSilver>
+  <SettlementGainsXLoyalty>Поселение повысит свою лояльность на {0}</SettlementGainsXLoyalty>
   <FCConfirm>Подтвердить</FCConfirm>
-  <FCGiveTaxBreak>Снижение налогов</FCGiveTaxBreak>
-  <FCConfirmDecision>Подтвердить решение</FCConfirmDecision>
-  <FCConfirmTaxBreak>Уменьшить базовый налог на 30% на 10 дней, но получить дополнительно +2 к счастью и процветанию ежедневно?</FCConfirmTaxBreak>
-  <FCAlreadyGivingTaxBreak>Вы уже предоставляете этому поселению налоговый отпуск на следующие {0} дней.</FCAlreadyGivingTaxBreak>
-  <FCGivingTaxBreak>{0} будет иметь налоговый отпуск на следующие 10 дней. Народ доволен!</FCGivingTaxBreak>
-  <FCActionMercenaryRefreshed>Действие "Запросить Наемника" доступно для использования</FCActionMercenaryRefreshed>
-  <FCActionSettlementFeeReduction>Стоимость вашего следующего поселения будет уменьшена на половину из-за особенности вашей фракции</FCActionSettlementFeeReduction>
-  <FCActionAvailable>Действие доступно</FCActionAvailable>
-  <FCActionMercenaryOnCooldown>Вы не можете использовать это действие до {0}</FCActionMercenaryOnCooldown>
-  <FCRequestMercenary>Запросить Наемника</FCRequestMercenary>
-  <FCMercenaryJoined>Присоединился Наемник</FCMercenaryJoined>
-  <FCMercenaryJoinedText>Наемник, {0}, из вашей фракции присоединился к вашей колонии!</FCMercenaryJoinedText>
+  <FCGiveTaxBreak>Снизить налоги</FCGiveTaxBreak>
+  <FCConfirmDecision>Подтвердить</FCConfirmDecision>
+  <FCConfirmTaxBreak>Снизить налоги для поселения на 30%? Распоряжение действует 10 дней, ежедневно счастье и процветание будет увеличиваться на 2 единицы.</FCConfirmTaxBreak>
+  <FCAlreadyGivingTaxBreak>Вы уже отдали Распоряжение на снижение налогов этому поселению. Дней до окончания действия распоряжения: {0}.</FCAlreadyGivingTaxBreak>
+  <FCGivingTaxBreak>Налоги для поселения {0} снижены на 10 дней. Народ доволен!</FCGivingTaxBreak>
+  <FCActionMercenaryRefreshed>Вы можете использовать распоряжение по запросу наёмника из фракции.</FCActionMercenaryRefreshed>
+  <FCActionSettlementFeeReduction>Стоимость создания следующего поселения будет ниже в два раза из-за особенности вашей фракции.</FCActionSettlementFeeReduction>
+  <FCActionAvailable>Доступно</FCActionAvailable>
+  <FCActionMercenaryOnCooldown>Вы не можете запросить наёмника до {0}</FCActionMercenaryOnCooldown>
+  <FCRequestMercenary>Запросить наёмника</FCRequestMercenary>
+  <FCMercenaryJoined>Наёмник присоединяется</FCMercenaryJoined>
+  <FCMercenaryJoinedText>{0} прибыл в ваше поселение!</FCMercenaryJoinedText>
   <FCSendResearchItems>Отправить материалы для изучения</FCSendResearchItems>
   <FCFactionResearch>Исследования фракции</FCFactionResearch>
   <FCFactionLevelUp>Повышение уровня фракции</FCFactionLevelUp>
-  <FCFactionLevelUpDesc>Ваша фракция {0} повысилась до уровня {1}!</FCFactionLevelUpDesc>
-  <FCSelectANewTrait>Выбрать модель</FCSelectANewTrait>
+  <FCFactionLevelUpDesc>Фракция {0} повысила уровень до {1}!</FCFactionLevelUpDesc>
+  <FCSelectANewTrait>Выбрать особенность</FCSelectANewTrait>
   <FCTraitLockedUntilLevel>Нужен {0} уровень</FCTraitLockedUntilLevel>
   <FCLevel>Уровень фракции: {0}</FCLevel>
-  <FCConfirmTrait>Вы уверены, что хотите выбрать {0}? Вы не сможете отменить это решение</FCConfirmTrait>
-  <FCIndustriousPop>Ваши налоги от поселения {0} сгенерировали дополнительные {1} процента налогов!</FCIndustriousPop>
-  <FCIdustriousTaxBoost>Налоги От индустриального населения</FCIdustriousTaxBoost>
-  <FCSelectYourTraits>Принципы вашей фракции не выбраны. Перейдите во вкладку настройки фракции, чтобы выбрать их!</FCSelectYourTraits>
+  <FCConfirmTrait>Вы уверены, что хотите выбрать {0}? Этот выбор нельзя изменить!</FCConfirmTrait>
+  <FCIndustriousPop>Благодаря индустриальной эффективности, поселение {0} принесло дополнительные {1} процентов налога!</FCIndustriousPop>
+  <FCIdustriousTaxBoost>Налоги от индустрии</FCIdustriousTaxBoost>
+  <FCSelectYourTraits>Особенности фракции не выбраны. Перейдите во вкладку управления фракцией!</FCSelectYourTraits>
 
 </LanguageData>

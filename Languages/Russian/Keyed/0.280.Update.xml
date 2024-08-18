@@ -3,9 +3,9 @@
 
 <SetCapital>Назначить столицу</SetCapital>
 
-<DeathOfFactionPawn>Ваша некомпетентность привела к смерти жителя вашего поселения! Волнения выросли.</DeathOfFactionPawn>
-<CaptureOfFactionPawn>Захват одного из жителей поселения вызвал большое волнение среди ваших поселений.</CaptureOfFactionPawn>
+<DeathOfFactionPawn>Ваша ошибка привела к смерти жителя вашей фракции, что привело к снижению лояльности поселений.</DeathOfFactionPawn>
+<CaptureOfFactionPawn>Захват жителя вашей фракции вызвал большие волнения среди поселений.</CaptureOfFactionPawn>
 
-<UnpaidTitheEffect>Уровень волнений увеличился на 10, счастья снизилось в поселениях! </UnpaidTitheEffect>
+<UnpaidTitheEffect>Уровень волнений повысился, счастье поселений уменьшилось!</UnpaidTitheEffect>
 
 </LanguageData>
