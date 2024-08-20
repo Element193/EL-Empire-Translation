@@ -1,37 +1,37 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <intergalacticMarket.label>Галактический рынок</intergalacticMarket.label>
+  <intergalacticMarket.label>[4] Галактический рынок</intergalacticMarket.label>
   <intergalacticMarket.desc>Это огромный торговый центр, куда челноки крупных космических кораблей прибывают для разгрузки и покупки разнообразных товаров Доля: +40%. Налог: +15%.</intergalacticMarket.desc>
 
-  <glitterworldResearchFacility.label>Исследовательский центр</glitterworldResearchFacility.label>
+  <glitterworldResearchFacility.label>[4] Исследовательский центр</glitterworldResearchFacility.label>
   <glitterworldResearchFacility.desc>Исследователи, оснащенные самыми современными инструментами раскрывают тайны Вселенной. Исследования: +50%.</glitterworldResearchFacility.desc>
 
-  <automatedDefenseSystems.label>Механиторский центр</automatedDefenseSystems.label>
+  <automatedDefenseSystems.label>[4] Механиторский центр</automatedDefenseSystems.label>
   <automatedDefenseSystems.desc>Улицы патрулируют механоиды, они обеспечивают безопасность колонистов от внешних и внутренних угроз. Боевой уровень: +2. Содержание: -400.</automatedDefenseSystems.desc>
 
-  <FoodReconstruction.label>Фабрика пит. пасты</FoodReconstruction.label>
+  <FoodReconstruction.label>[4] Фабрика пит. пасты</FoodReconstruction.label>
   <FoodReconstruction.desc>Никто не любит питательную пасту, но с небольшими вкусовыми и косметическими изменениями она может выглядеть и иметь такой вкус, какой захотите! Еда: +50%. Содержание: -400.</FoodReconstruction.desc>
 
-  <MechSalvage.label>Мастерская механиторов</MechSalvage.label>
+  <MechSalvage.label>[4] Мастерская механиторов</MechSalvage.label>
   <MechSalvage.desc>При наличии нужного оборудования, механиторы могут как собирать механоидов, так и разбирать нерабочих. Оружие: +0.5. Боевая эффективность +5%.</MechSalvage.desc>
 
-  <ClothingPrinters.label>Текстильные принтеры</ClothingPrinters.label>
+  <ClothingPrinters.label>[4] Текстильные принтеры</ClothingPrinters.label>
   <ClothingPrinters.desc>Уберите человеческий фактор вообще! Загрузите материалы и наблюдайте, как создается одежда! Одежда: +50%.</ClothingPrinters.desc>
 
-  <SyntheticWoodFactory.label>Синтетическая древесина</SyntheticWoodFactory.label>
+  <SyntheticWoodFactory.label>[4] Синтетическая древесина</SyntheticWoodFactory.label>
   <SyntheticWoodFactory.desc>Это космическая эпоха! Древесина как настоящая - это не винил, мы клянемся! Древесина: +0.5.</SyntheticWoodFactory.desc>
 
-  <AsteroidMagnet.label>Астероидный магнит</AsteroidMagnet.label>
+  <AsteroidMagnet.label>[4] Астероидный магнит</AsteroidMagnet.label>
   <AsteroidMagnet.desc>Жителям это может не понравиться, но трудно отрицать количество ресурсов, которые появляются просто с неба. Добыча: +20%. Счастье/д -0.5. Волнения/д +0.5.</AsteroidMagnet.desc>
 
-  <WorkerBots.label>Рабочие механоиды</WorkerBots.label>
+  <WorkerBots.label>[4] Рабочие механоиды</WorkerBots.label>
   <WorkerBots.desc>Задействуйте механоидов для выполнения обыденных задач в колонии, чтобы поселенцы могли заняться более важной работой. Рабочие: +10. Платные рабочие: +7. Обслуживание: -400.</WorkerBots.desc>
 
-  <SubliminalMessageCenter.label>Пси-транслятор</SubliminalMessageCenter.label>
+  <SubliminalMessageCenter.label>[4] Пси-транслятор</SubliminalMessageCenter.label>
   <SubliminalMessageCenter.desc>Используйте пси-влияние в местных трансляциях поселения. Лояльность/д +0.5. Волнения/д -0.5. Содержание: -400.</SubliminalMessageCenter.desc>
 
-  <CloningLab.label>Клонировщик животных</CloningLab.label>
+  <CloningLab.label>[4] Клонировщик животных</CloningLab.label>
   <CloningLab.desc>Зачем разводить или захватывать животных, если можно просто выращивать их в капсулах? Животные: +0.5. Исследования: +0.25. Содержание: -400.</CloningLab.desc>
 
 </LanguageData>

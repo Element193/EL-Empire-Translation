@@ -1,43 +1,43 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <barracks.label>Бараки</barracks.label>
+  <barracks.label>[2] Бараки</barracks.label>
   <barracks.desc>Место дислокации пехотинцев в мирное время. Боевой уровень: +1. Содержание: -150.</barracks.desc>
 
-  <tradingPost.label>Торговый лагерь</tradingPost.label>
+  <tradingPost.label>[2] Торговый лагерь</tradingPost.label>
   <tradingPost.desc>Маленький лагерь, который часто посещают различные торговцы. Доля: +10.</tradingPost.desc>
 
-  <migrantHousing.label>Дома мигрантов</migrantHousing.label>
+  <migrantHousing.label>[2] Дома мигрантов</migrantHousing.label>
   <migrantHousing.desc>Жилье для мигрантов, путешествующих через этот район. Рабочие: +2. Платные рабочие: +2.</migrantHousing.desc>
 
-  <quarry.label>Карьер</quarry.label>
+  <quarry.label>[2] Карьер</quarry.label>
   <quarry.desc>На этой опустошенной местности для добычи ценной руды вознижается огромный карьер, разрывая природу и оставляя за собой следы трудолюбия и амбиций. Добыча: +0.5.</quarry.desc>
 
-  <trainingYard.label>Тренировочный лагерь</trainingYard.label>
+  <trainingYard.label>[2] Тренировочный лагерь</trainingYard.label>
   <trainingYard.desc>Это обширная территория, где пехотинцы подвергаются интенсивным тренировкам, готовясь к выполнению своих задач. Боевая эффективность: +15%.</trainingYard.desc>
 
-  <FurHunterCamp.label>Лагерь охотников</FurHunterCamp.label>
+  <FurHunterCamp.label>[2] Лагерь охотников</FurHunterCamp.label>
   <FurHunterCamp.desc>Это пристанище для охотников, где они готовятся к дням на природе, делятся историями и приключениями, планируют свои охотничьи дела. Животные: +0.5.</FurHunterCamp.desc>
 
-  <FlintStorage.label>Склад обломков</FlintStorage.label>
+  <FlintStorage.label>[2] Склад обломков</FlintStorage.label>
   <FlintStorage.desc>Это место, где собирают и хранят различные обломки камней, предназначенных для строительных и производственных целей. Добыча: +0.2.</FlintStorage.desc>
 
-  <SlavePit.label>Рабское жилище</SlavePit.label>
+  <SlavePit.label>[2] Рабское жилище</SlavePit.label>
   <SlavePit.desc>Представляет собой примитивное жилище, обычно маленьких размеров, созданное для проживания рабов в крайне низких условиях. Рабочие: +2.</SlavePit.desc>
 
-  <Farmland.label>Плантации</Farmland.label>
+  <Farmland.label>[2] Плантации</Farmland.label>
   <Farmland.desc>Участок земли, выделенный под выращивание съедобных растений. Пища: +0.5.</Farmland.desc>
 
-  <AmmunitionMines.label>Военные шахты</AmmunitionMines.label>
+  <AmmunitionMines.label>[2] Военные шахты</AmmunitionMines.label>
   <AmmunitionMines.desc>От кремния для стрел до материалов для пуль и пороха, эти шахты занимают место, которое могло быть использовано для добычи других ресурсов. Оружие: +15%. Добыча: -15%.</AmmunitionMines.desc>
 
-  <TanningWorkshop.label>Кожевная мастерская</TanningWorkshop.label>
+  <TanningWorkshop.label>[2] Кожевная мастерская</TanningWorkshop.label>
   <TanningWorkshop.desc>Мастерская для обработки шкур животных. Одежда: +15%. Животные: -15%.</TanningWorkshop.desc>
 
-  <DrugDen.label>Наркопритон</DrugDen.label>
+  <DrugDen.label>[2] Наркопритон</DrugDen.label>
   <DrugDen.desc>Удивительно, какие открытия делают местные, будучи под препаратами. Иногда эти открытия даже полезны! Исследования: +5%. Счастье/д +0.3. Медицина: -5%.</DrugDen.desc>
 
-  <HamsterWheel.label>Колесо для хомяков</HamsterWheel.label>
+  <HamsterWheel.label>[2] Колесо для хомяков</HamsterWheel.label>
   <HamsterWheel.desc>Это безумие, но лучше чем ничего! Энергия: +0.25. Платные рабочие: -1.</HamsterWheel.desc>
 
 </LanguageData>

@@ -1,40 +1,40 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <slavePlantation.label>Рабская плантация</slavePlantation.label>
+  <slavePlantation.label>[1] Рабская плантация</slavePlantation.label>
   <slavePlantation.desc>Здесь рабы трудятся на полях. Пища: +20%.</slavePlantation.desc>
 
-  <adventurersGuild.label>Центр авантюристов</adventurersGuild.label>
+  <adventurersGuild.label>[1] Центр авантюристов</adventurersGuild.label>
   <adventurersGuild.desc>Место, где искатели и авантюристы могут обменятся историями и провести ночь. Пища: -15%. Оружие: -15%. Одежда: -15%. Налог: +5%. Боевой уровень: +1. Содержание: -250.</adventurersGuild.desc>
 
-  <publicMarket.label>Рынок</publicMarket.label>
+  <publicMarket.label>[1] Рынок</publicMarket.label>
   <publicMarket.desc>Рынок для обмена товарами. Доля: +15.</publicMarket.desc>
 
-  <jailhouse.label>Тюрьма</jailhouse.label>
+  <jailhouse.label>[1] Тюрьма</jailhouse.label>
   <jailhouse.desc>Место для содержания преступников. Прирост беспокойства: -25%. Налог: -5%.</jailhouse.desc>
 
-  <wildernessGuild.label>Лагерь животноводов</wildernessGuild.label>
+  <wildernessGuild.label>[1] Лагерь животноводов</wildernessGuild.label>
   <wildernessGuild.desc>Община, посвященная приручению диких животных. Животные: +25%.</wildernessGuild.desc>
 
-  <apparelSweatshop.label>Мастерская одежды</apparelSweatshop.label>
+  <apparelSweatshop.label>[1] Мастерская одежды</apparelSweatshop.label>
   <apparelSweatshop.desc>Место, где работают как рабы, так и колонисты! Одежда: +0.5.</apparelSweatshop.desc>
 
-  <loggingCamp.label>Лагерь лесорубов</loggingCamp.label>
+  <loggingCamp.label>[1] Лагерь лесорубов</loggingCamp.label>
   <loggingCamp.desc>Лагерь для вырубки лесов. Включает лесопилку и все необходимое! Древесина: +0.5.</loggingCamp.desc>
 
-  <RedlightDistrict.label>Публичные дома</RedlightDistrict.label>
+  <RedlightDistrict.label>[1] Публичные дома</RedlightDistrict.label>
   <RedlightDistrict.desc>Место, где торговцы и путники могут переночевать с сомнительными личностями. Счастье: +0.25. Налог: +5%.</RedlightDistrict.desc>
 
-  <Smithy.label>Оружейная кузница</Smithy.label>
+  <Smithy.label>[1] Оружейная кузница</Smithy.label>
   <Smithy.desc>Чудесная кузница и великая наковальня. Идеально подходит для обработки металла и создания как оружия, так и инструментов. Оружие: +0.5. Добыча: -5%.</Smithy.desc>
 
-  <UndergroundMine.label>Подземная шахта</UndergroundMine.label>
+  <UndergroundMine.label>[1] Подземная шахта</UndergroundMine.label>
   <UndergroundMine.desc>Окунитесь в недра планеты для поиска ценных ресурсов. Главное не забывать строить опоры! Добыча: +0.5. Древесина: -5%.</UndergroundMine.desc>
 
-  <Mills.label>Мельницы</Mills.label>
+  <Mills.label>[1] Мельницы</Mills.label>
   <Mills.desc>Ветряные или водяные мельницы, производят энергию и служат механизмом для обработки изделий! Энергия: +0.25. Пища: +5%. Оружие: +5%. Одежда: +5%. Древесина: +5%. Содержание: -300.</Mills.desc>
 
-  <ServantHousing.label>Дома для слуг</ServantHousing.label>
+  <ServantHousing.label>[1] Дома для слуг</ServantHousing.label>
   <ServantHousing.desc>Дома для слуг представляют собой отдельные жилые сооружения или помещения, обеспечивающие комфортные условия для служащих. Рабочие: +4. Платные рабочие: +4. Стоимость рабочих: +5. Содержание: -250.</ServantHousing.desc>
 
 </LanguageData>

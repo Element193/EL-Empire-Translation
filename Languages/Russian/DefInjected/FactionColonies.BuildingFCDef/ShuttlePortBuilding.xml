@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-<shuttlePort.label>Порт для челноков</shuttlePort.label>
+<shuttlePort.label>[3] Аэропорт</shuttlePort.label>
 <shuttlePort.desc>Маленький порт, предоставляющий возможность быстро отправлять товары по планете. Это здание позволяет отправлять три челнока каждый налоговый период. Доля: +5%. Налог: +5%. Содержание: -600.</shuttlePort.desc>
 
 </LanguageData>

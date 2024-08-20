@@ -1,43 +1,43 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <researchLabs.label>Лаборатории</researchLabs.label>
+  <researchLabs.label>[2] Лаборатория</researchLabs.label>
   <researchLabs.desc>Здесь ученые работают во имя науки, занимаясь исследованиями. Исследования: +0.5.</researchLabs.desc>
   
-  <indoorHydroponics.label>Гидропоника</indoorHydroponics.label>
+  <indoorHydroponics.label>[2] Гидропоника</indoorHydroponics.label>
   <indoorHydroponics.desc>Еда производится внутри помещений, которые защищают растения от суровых условий климата. Пища +0.5.</indoorHydroponics.desc>
   
-  <firearmsFactory.label>Оружейная мастерская</firearmsFactory.label>
+  <firearmsFactory.label>[2] Оружейная мастерская</firearmsFactory.label>
   <firearmsFactory.desc>Мастерская, в которой оружейники производят большие партии различного вооружения. Оружие: +0.5.</firearmsFactory.desc>
   
-  <rimazonWarehouse.label>Римазонский склад</rimazonWarehouse.label>
+  <rimazonWarehouse.label>[2] Римазонский склад</rimazonWarehouse.label>
   <rimazonWarehouse.desc>Склад полностью забитый товарами для отправки. Доля: +20. Налог: +5%.</rimazonWarehouse.desc>
   
-  <inhouseMercCompany.label>Военная корпорация</inhouseMercCompany.label>
+  <inhouseMercCompany.label>[2] Военная корпорация</inhouseMercCompany.label>
   <inhouseMercCompany.desc>Инфраструктура независимой военной корпорации. Она обеспечит безопасность колонии. Боевой уровень: +1. Налог: -10%. Обслуживание: -200.</inhouseMercCompany.desc>
   
-  <adultEntertainmentCentre.label>Центр для взрослых</adultEntertainmentCentre.label>
+  <adultEntertainmentCentre.label>[2] Центр для взрослых</adultEntertainmentCentre.label>
   <adultEntertainmentCentre.desc>Место, где местные жители могут провести время и развлечься. Счастье/д: +0.5.</adultEntertainmentCentre.desc>
   
-  <forcedWorkCamps.label>Трудовые лагеря</forcedWorkCamps.label>
+  <forcedWorkCamps.label>[2] Трудовые лагеря</forcedWorkCamps.label>
   <forcedWorkCamps.desc>Заставьте заключенных работать! Рабочие: +2. Волнения: +0.5. Снижение волнений: -25%.</forcedWorkCamps.desc>
   
-  <artilleryOutpost.label>Артилерийский лагерь</artilleryOutpost.label>
+  <artilleryOutpost.label>[2] Артилерийский лагерь</artilleryOutpost.label>
   <artilleryOutpost.desc>После постройки этого здания можно вызвать артиллерийский удар за стоимость, указаную в меню отрядов. Боевой уровень: +1. Содержание: -300.</artilleryOutpost.desc>
   
-  <JunkFoodFactory.label>Фаабрика плохой пищи</JunkFoodFactory.label>
+  <JunkFoodFactory.label>[2] Фаабрика плохой пищи</JunkFoodFactory.label>
   <JunkFoodFactory.desc>Быстро, дешево и очень вредно. Местные будут жаловаться на низкое качество продуктов, но будут слабыми чтобы что-либо предпринять. Пища: +25%. Счастье/д: -0.5. Стабильность/д: +0.5. Содержание: -400.</JunkFoodFactory.desc>
   
-  <TextileFactory.label>Текстильная фабрика</TextileFactory.label>
+  <TextileFactory.label>[2] Текстильная фабрика</TextileFactory.label>
   <TextileFactory.desc>Производство одежды гораздо проще, когда часть работы выполняют машины! Одежда: +0.5. Содержание: -250.</TextileFactory.desc>
   
-  <LocalZoo.label>Локальный зоопарк</LocalZoo.label>
+  <LocalZoo.label>[2] Локальный зоопарк</LocalZoo.label>
   <LocalZoo.desc>Любой может осматривать разнообразие животного мира этой области! Животные: +0.5. Счастье/д: +0.3. Содержание: -350.</LocalZoo.desc>
   
-  <TreeFarm.label>Плантация деревьев</TreeFarm.label>
+  <TreeFarm.label>[2] Плантация деревьев</TreeFarm.label>
   <TreeFarm.desc>Прекратите вырубку леса! Выращивайте деревья сами! Древесина: +0.5. Древесина: +5%.</TreeFarm.desc>
   
-  <IMED.label>Горные копатели</IMED.label>
+  <IMED.label>[2] Горные копатели</IMED.label>
   <IMED.desc>Место хранения и обслуживания массивных машин, которые режут скалы как картон. Добыча: +20%. Содержание: -550.</IMED.desc>
 
 </LanguageData>
