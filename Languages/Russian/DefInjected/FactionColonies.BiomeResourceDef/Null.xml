@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Impassable.label>Непроходимые</Impassable.label>
+  <Impassable.label>Непроходимо</Impassable.label>
   <Lake.label>Озеро</Lake.label>
   <Ocean.label>Океан</Ocean.label>
 

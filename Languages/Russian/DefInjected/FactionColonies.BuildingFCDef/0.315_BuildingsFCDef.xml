@@ -2,12 +2,12 @@
 <LanguageData>
 
   <plagueCamp.label>[1] Чумной лагерь</plagueCamp.label>
-  <plagueCamp.desc>Лагерь для больных опасными болезнями. Рабочие: -3. Платные рабочие: -2. Исследования: +0.4. Медикаменты: +0.4.</plagueCamp.desc>
+  <plagueCamp.desc>Лагерь для содержания больных со смертельными болезнями. Рабочие: -3. Платные рабочие: -2. Исследования: +0.4. Медикаменты: +0.4.</plagueCamp.desc>
 
   <deforestationCamp.label>[1] Лесопилка</deforestationCamp.label>
   <deforestationCamp.desc>Лагерь, от которого местные леса лишаются жизни. Древесина: +25%. Животные: +25%. Стоимость рабочих: +10.</deforestationCamp.desc>
 
-  <herbalMedicineFarm.label>[1] Лечебная плантация</herbalMedicineFarm.label>
+  <herbalMedicineFarm.label>[1] Мед. плантация</herbalMedicineFarm.label>
   <herbalMedicineFarm.desc>Маленькая плантация для выращивания лекарственных трав. Медикаменты: +0.25.</herbalMedicineFarm.desc>
 
   <batteryPowerStation.label>[2] Аккумуляторы</batteryPowerStation.label>
@@ -16,7 +16,7 @@
   <solarPlant.label>[2] Солнечные панели</solarPlant.label>
   <solarPlant.desc>Ряды солнечных панелей для дополнительного производства энергии. Энергия: +25%. Стоимость рабочих: +10.</solarPlant.desc>
 
-  <cleanEnergyLab.label>[2] Лаборатория энергии</cleanEnergyLab.label>
+  <cleanEnergyLab.label>[2] Лаб. Энергии</cleanEnergyLab.label>
   <cleanEnergyLab.desc>Лаборатория по изучению и созданию более эффективных чистых источников энергии. Энергия: +25%. Исследования: +25%. Содержание: -100.</cleanEnergyLab.desc>
 
   <animalTestingFacility.label>[2] Лаборатория фауны</animalTestingFacility.label>
@@ -25,8 +25,8 @@
   <apartmentHousing.label>[2] Жилой комплекс</apartmentHousing.label>
   <apartmentHousing.desc>Большой жилой комплекс для размещения местных рабочих. Рабочие: +8. Платные рабочие: +5. Содержание: -500.</apartmentHousing.desc>
 
-  <perpetualMotionGenerator.label>[2] Генератор движения</perpetualMotionGenerator.label>
-  <perpetualMotionGenerator.desc>Это нарушение законов физики! Генератор, производящий энергию по концепции вечного движения. Энергия: +50%. Содержание: -400.</perpetualMotionGenerator.desc>
+  <perpetualMotionGenerator.label>[4] Вечный двигатель</perpetualMotionGenerator.label>
+  <perpetualMotionGenerator.desc>Это нарушение законов физики! Генератор, производящий энергию с помощью вечного движения. Энергия: +50%. Содержание: -400.</perpetualMotionGenerator.desc>
 
   <bionicsManufacturingPlant.label>[3] Завод бионики</bionicsManufacturingPlant.label>
   <bionicsManufacturingPlant.desc>Производственный комплекс, специализированный для создания бионических протезов. Медикаменты: +0.5. Боевая эффективность: +10%. Содержание: -200.</bionicsManufacturingPlant.desc>
